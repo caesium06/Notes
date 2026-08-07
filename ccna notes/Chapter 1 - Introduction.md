@@ -3,7 +3,7 @@
 
 This video serves as an introductory lesson in CCNA 200-301 course, designed to provide foundational networking knowledge for beginners aiming to pass the Cisco Certified Network Associate exam or simply learn about computer networking. It systematically explains basic network concepts, focusing on core network devices such as clients, servers, switches, routers, and firewalls, clarifying their roles, interactions, and significance in enterprise networks.
 
-## 1. Purpose and Scope of the Course
+## 1. purpose and Scope of the Course
 
 The course covers **all topics required for the CCNA 200-301 exam** through video lectures, quizzes, flashcards, and hands-on labs using Cisco’s Packet Tracer simulation software. It is **free and suitable for anyone with basic computer familiarity**, regardless of programming knowledge or prior networking experience.
 
