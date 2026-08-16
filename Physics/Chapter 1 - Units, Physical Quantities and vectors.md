@@ -8,9 +8,7 @@ physics and the units physicists
 use to measure them.
 * How to keep track of significant 
 figures in your calculations.
-* The difference between scalars and
-vectors, and how to add and sub
-tract vectors graphically.
+* The difference between scalars and vectors, and how to add and subtract vectors graphically.
 * What the components of a vector
 are, and how to use them in 
 calculations.
