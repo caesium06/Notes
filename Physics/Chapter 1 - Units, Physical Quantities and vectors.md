@@ -18,6 +18,9 @@ describe vectors.
 * Two ways of multiplying vectors
 
 
+## How to Approach Physics problems
+
+
 ### 1. IDENTIFY
 
 First determine **what physics is involved**.
