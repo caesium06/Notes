@@ -1,0 +1,612 @@
+## CCNA Notes — Ethernet LAN Switching, ARP & MAC Tables
+
+### 1. Ethernet Frame
+
+**Ethernet frame structure:**
+
+`Preamble + SFD | Destination MAC | Source MAC | Type | Payload | FCS`
+
+* **Preamble + SFD**
+
+  * Sent with every Ethernet frame.
+  * Usually **not considered part of the Ethernet header**.
+
+* **Ethernet header**
+
+  * Destination MAC
+  * Source MAC
+  * Type
+
+* Header + trailer = **18 bytes** excluding Preamble/SFD.
+
+* Minimum Ethernet frame size = **64 bytes**.
+
+* Therefore:
+
+  **Minimum payload = 64 − 18 = 46 bytes**
+
+* If payload is less than 46 bytes, **padding bytes (all 0s)** are added.
+
+* Example:
+
+  * Payload = 36 bytes
+  * Required payload = 46 bytes
+  * Padding = **10 bytes**
+
+> **CCNA exam point:** Preamble/SFD are transmitted with the frame but aren't normally counted when discussing the 64-byte minimum frame size.
+
+---
+
+## 2. MAC Addresses
+
+A MAC address is a **Layer 2 address**.
+
+Example:
+
+`0C2F.B011.9D00`
+
+* First half → **OUI (Organizationally Unique Identifier)**
+
+  * Identifies the manufacturer.
+* Second half → identifies the individual device.
+
+Different devices from the same manufacturer can therefore have the same OUI but different complete MAC addresses.
+
+---
+
+## 3. IP Addresses vs MAC Addresses
+
+When PC1 sends data to PC3:
+
+**IP packet:**
+
+* Source IP: `192.168.1.1`
+* Destination IP: `192.168.1.3`
+
+**Ethernet frame:**
+
+* Source MAC: PC1's MAC
+* Destination MAC: PC3's MAC
+
+The important problem is:
+
+> PC1 knows PC3's **IP address**, but initially doesn't know PC3's **MAC address**.
+
+This is where **ARP** comes in.
+
+---
+
+# 4. ARP — Address Resolution Protocol
+
+### Purpose
+
+**ARP discovers the MAC address associated with a known IPv4 address.**
+
+In other words:
+
+> **Known IP → Find MAC**
+
+Example:
+
+`192.168.1.3 → 0C2F.B06A.3900`
+
+ARP operates between Layer 2 and Layer 3 concepts.
+
+### ARP has two messages
+
+| Message         | Destination | Purpose                           |
+| --------------- | ----------- | --------------------------------- |
+| **ARP Request** | Broadcast   | "Who has this IP?"                |
+| **ARP Reply**   | Unicast     | "That IP is mine; here's my MAC." |
+
+### ARP Request
+
+Destination MAC:
+
+`FFFF.FFFF.FFFF`
+
+This is the **broadcast MAC address**.
+
+The request is flooded throughout the local network.
+
+### ARP Reply
+
+The destination MAC is now known, so the reply is **unicast** directly to the requesting device.
+
+---
+
+# 5. ARP Process — Example
+
+PC1 wants to communicate with PC3.
+
+PC1 knows:
+
+`PC3 IP = 192.168.1.3`
+
+But doesn't know PC3's MAC.
+
+### Step 1 — PC1 sends ARP Request
+
+Broadcast:
+
+> "Who has 192.168.1.3?"
+
+Destination MAC:
+
+`FFFF.FFFF.FFFF`
+
+### Step 2 — Switch receives the frame
+
+The switch:
+
+1. Learns PC1's source MAC.
+2. Adds it as a **dynamic MAC address**.
+3. Sees the broadcast destination.
+4. Floods the frame out all ports except the receiving port.
+
+### Step 3 — Other PCs receive it
+
+PC2 sees that the destination IP isn't its own → ignores it.
+
+PC4 does the same.
+
+PC3 sees:
+
+`Destination IP = 192.168.1.3`
+
+That's its own IP → responds.
+
+### Step 4 — PC3 sends ARP Reply
+
+PC3 sends:
+
+> "192.168.1.3 is at [PC3 MAC]."
+
+This is **unicast** to PC1.
+
+### Step 5 — Switches learn PC3's MAC
+
+The switches learn PC3's source MAC and add it to their MAC address tables.
+
+### Step 6 — PC1 updates its ARP table
+
+PC1 now has:
+
+`192.168.1.3 → PC3 MAC`
+
+PC1 can finally construct the actual Ethernet frame for the data.
+
+---
+
+# 6. ARP Table
+
+An **ARP table** stores:
+
+> **IP address ↔ MAC address**
+
+On Windows/macOS/Linux:
+
+```bash
+arp -a
+```
+
+Typical fields:
+
+| Field            | Meaning           |
+| ---------------- | ----------------- |
+| Internet Address | IP address        |
+| Physical Address | MAC address       |
+| Type             | Static or Dynamic |
+
+### Static
+
+Manually/default configured entry.
+
+### Dynamic
+
+Learned through the ARP process.
+
+---
+
+# 7. Ping
+
+**Ping** tests whether one device can reach another.
+
+It measures **round-trip time (RTT)**:
+
+`PC1 → PC3 → PC1`
+
+Ping uses **ICMP**.
+
+### Two ICMP messages
+
+1. **ICMP Echo Request**
+2. **ICMP Echo Reply**
+
+Unlike an ARP request, an ICMP Echo Request is **unicast** to a specific host.
+
+---
+
+## 8. ARP + Ping Together
+
+Suppose PC1 runs:
+
+```text
+ping 192.168.1.3
+```
+
+If PC1 doesn't already know PC3's MAC:
+
+```text
+PC1
+ ↓
+ARP Request (broadcast)
+ ↓
+PC3
+ ↓
+ARP Reply (unicast)
+ ↓
+PC1 learns PC3 MAC
+ ↓
+ICMP Echo Request
+ ↓
+PC3
+ ↓
+ICMP Echo Reply
+ ↓
+PC1
+```
+
+### Why can the first ping fail?
+
+Because PC1 may need to perform ARP first.
+
+The ARP process takes time, so the first ICMP Echo Request may fail.
+
+Subsequent pings can succeed because PC1 now knows PC3's MAC address.
+
+---
+
+# 9. Cisco IOS Ping
+
+By default, Cisco IOS sends:
+
+* **5 ICMP Echo Requests**
+* Each is **100 bytes**
+
+Output symbols:
+
+* `!` → successful ping
+* `.` → failed ping
+
+Example:
+
+```text
+!!!!.
+```
+
+means 4 successful and 1 failed.
+
+Success rate:
+
+`4/5 = 80%`
+
+Cisco IOS also displays:
+
+* Minimum RTT
+* Average RTT
+* Maximum RTT
+
+---
+
+# 10. MAC Address Table
+
+A Cisco switch maintains a **MAC address table**.
+
+It maps:
+
+> **MAC address → switch interface**
+
+Command:
+
+```text
+show mac address-table
+```
+
+### Fields
+
+The table contains:
+
+1. **VLAN**
+2. **MAC Address**
+3. **Type**
+4. **Ports**
+
+Example conceptually:
+
+| VLAN | MAC Address | Type    | Port |
+| ---- | ----------- | ------- | ---- |
+| 1    | PC1 MAC     | Dynamic | G0/0 |
+| 1    | PC3 MAC     | Dynamic | G0/1 |
+
+### Important distinction
+
+**ARP table:**
+
+`IP → MAC`
+
+**Switch MAC address table:**
+
+`MAC → Port`
+
+Don't mix these up.
+
+---
+
+# 11. Dynamic MAC Addresses
+
+When a switch learns a MAC address automatically from incoming traffic, it's a:
+
+> **Dynamic MAC address**
+
+Dynamic MAC addresses **age out after 5 minutes** if the switch doesn't receive traffic from that MAC address.
+
+This process is called **aging**.
+
+---
+
+# 12. Clearing Dynamic MAC Addresses
+
+### Clear all dynamic MAC addresses
+
+```text
+clear mac address-table dynamic
+```
+
+### Clear a specific MAC address
+
+```text
+clear mac address-table dynamic address <MAC-address>
+```
+
+### Clear entries learned on a specific interface
+
+```text
+clear mac address-table dynamic interface <interface-id>
+```
+
+Example:
+
+```text
+clear mac address-table dynamic interface gi0/0
+```
+
+---
+
+# 13. Switch Forwarding Behavior
+
+This is **very important for CCNA**.
+
+A switch can encounter:
+
+### Known Unicast
+
+Destination MAC is present in MAC table.
+
+➡️ Forward only through the appropriate port.
+
+**No flooding.**
+
+---
+
+### Unknown Unicast
+
+Destination MAC is **not** present in MAC table.
+
+➡️ Flood out all interfaces except the one receiving the frame.
+
+---
+
+### Broadcast
+
+Destination MAC:
+
+`FFFF.FFFF.FFFF`
+
+➡️ Flood out all interfaces except the receiving interface.
+
+---
+
+### Memorize this
+
+| Frame               | Switch behavior          |
+| ------------------- | ------------------------ |
+| **Known unicast**   | Forward to specific port |
+| **Unknown unicast** | Flood                    |
+| **Broadcast**       | Flood                    |
+
+Therefore:
+
+> **Broadcast + Unknown Unicast = Flooded**
+
+---
+
+# 14. Ethernet Type Values
+
+Important Ethernet Type values from the lesson:
+
+| Protocol | EtherType |
+| -------- | --------- |
+| IPv4     | `0x0800`  |
+| ARP      | `0x0806`  |
+| IPv6     | `0x86DD`  |
+
+The `0x` indicates hexadecimal.
+
+---
+
+# 15. Ethernet Padding Example
+
+Suppose:
+
+```text
+ping ... size 36
+```
+
+The payload is **36 bytes**.
+
+Minimum Ethernet payload:
+
+**46 bytes**
+
+Therefore:
+
+`46 − 36 = 10 bytes padding`
+
+The padding consists of zeroes.
+
+So if Wireshark shows:
+
+```text
+00 00 00 00 ...
+```
+
+at the end of the payload, those can be **padding bytes**.
+
+---
+
+# 16. Wireshark
+
+**Wireshark** performs **packet captures**.
+
+It allows you to inspect network traffic and see things such as:
+
+* Source/destination MAC
+* Source/destination IP
+* ARP packets
+* ICMP packets
+* Ethernet Type
+* Padding
+
+For a ping where ARP information wasn't previously known, you can observe:
+
+```text
+ARP Request
+ARP Reply
+ICMP Echo Request
+ICMP Echo Reply
+...
+```
+
+---
+
+# 17. GNS3 vs Packet Tracer
+
+### Packet Tracer
+
+* Network **simulator**
+* Free
+* Very useful for CCNA labs
+* Used throughout the course
+
+### GNS3
+
+* Runs actual Cisco IOS software virtually
+* More realistic in some ways
+* GNS3 itself is free
+* Cisco IOS images must be obtained separately
+
+For CCNA:
+
+> **Packet Tracer is sufficient for most of the required practice.**
+
+---
+
+# ⭐ High-Yield CCNA Facts
+
+Memorize these:
+
+```text
+ARP:
+Known IP → Find MAC
+
+ARP Request:
+Broadcast
+
+ARP Reply:
+Unicast
+
+Ping:
+ICMP Echo Request + Echo Reply
+
+ARP:
+IP ↔ MAC mapping
+
+Switch MAC table:
+MAC → Port
+
+Ethernet minimum frame:
+64 bytes
+
+Ethernet minimum payload:
+46 bytes
+
+Padding:
+Added when payload < 46 bytes
+
+Broadcast MAC:
+FFFF.FFFF.FFFF
+
+IPv4 EtherType:
+0x0800
+
+ARP EtherType:
+0x0806
+
+IPv6 EtherType:
+0x86DD
+
+Known unicast:
+Forward to one port
+
+Unknown unicast:
+Flood
+
+Broadcast:
+Flood
+
+Dynamic MAC aging:
+5 minutes
+```
+
+## 🧠 The complete picture
+
+This is the most important sequence to understand:
+
+```text
+PC1 wants to ping PC3
+        ↓
+PC1 knows PC3's IP
+        ↓
+PC1 doesn't know PC3's MAC
+        ↓
+ARP Request
+(Broadcast)
+        ↓
+Switch floods it
+        ↓
+PC3 receives it
+        ↓
+ARP Reply
+(Unicast)
+        ↓
+PC1 learns PC3's MAC
+        ↓
+PC1 sends ICMP Echo Request
+(Unicast)
+        ↓
+PC3 sends ICMP Echo Reply
+(Unicast)
+```
+
+If you understand this sequence, you've connected **ARP + Ethernet + MAC learning + switching + ICMP + ping** into one practical process. 
