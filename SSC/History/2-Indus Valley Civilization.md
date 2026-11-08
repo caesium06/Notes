@@ -1,3 +1,5 @@
+> **How to use image placeholders:** Replace each placeholder block with an image, for example: `![Harappan city plan](images/harappan-city-plan.png)`. Keep the short caption beneath the image for revision.
+
 # SSC CGL History – Indus Valley Civilization
 
 ## 1. Introduction
@@ -19,6 +21,8 @@
 | Late Harappan | 1900–1300 BCE |
 
 ## 2. Important Harappan Sites
+
+![Harappan city plan](images/indus_valley_map.jpg)
 
 | Site | Present Location | Important Findings |
 |---|---|---|
@@ -60,6 +64,7 @@
 
 **Important:** Harappans were particularly advanced in urban planning and sanitation.
 
+![Harappan city plan](images/harappan_town_planning.jpg)
 ## 4. Economy
 
 ### Agriculture
@@ -79,12 +84,16 @@
 
 ### Trade
 
+
+
 - Internal and external trade existed.
 - Trade relations with Mesopotamia.
 - Mesopotamian texts referred to a region called **Meluhha**, generally identified with the Indus region.
 - Lothal was an important trade centre.
 - Standardized weights and measures were used.
 - Trade was probably conducted through barter.
+
+![Harappan city plan](images/mesopotamia.png)
 
 ### Crafts
 
@@ -95,6 +104,9 @@
 - Jewellery production.
 
 ## 5. Art and Architecture
+
+![Harappan city plan](images/dancing_girl.jpg)
+![Harappan city plan](images/pasuthai_seal.jpg)
 
 ### Important Artifacts
 
@@ -110,12 +122,17 @@
 ### Important Facts
 
 - Dancing Girl was made using the **lost-wax technique**.
+
+![Harappan city plan](images/Lost-wax-casting.jpg)
 - Seals were generally made of steatite.
 - Unicorn was a very common seal motif.
 - Harappans used bronze, copper, gold and silver.
 - Iron was not commonly used during this civilization.
 
 ## 6. Religion
+
+![Harappan city plan](images/pasuthai_seal.jpg)
+![alt text](images/religion.png)
 
 - Worship of mother goddess is suggested by terracotta figurines.
 - Pashupati seal is associated by some scholars with a proto-Shiva figure.
@@ -125,6 +142,8 @@
 - No definite evidence of large temples has been found.
 
 ## 7. Script
+
+![alt text](images/harappan_script.png)
 
 - Harappan script remains undeciphered.
 - Mostly pictographic in nature.
@@ -183,6 +202,8 @@ The decline occurred gradually around 1900 BCE in the Mature Harappan phase.
 | UNESCO World Heritage Harappan site | Dholavira |
 
 ## 11. Harappan vs Vedic Civilization
+
+![alt text](images/harappan_vs_vedic.png)
 
 | Feature | Harappan | Early Vedic |
 |---|---|---|
