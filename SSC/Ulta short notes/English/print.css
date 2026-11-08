@@ -1,0 +1,76 @@
+
+@page {
+    size: A4 portrait;
+    margin: 9mm;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    line-height: 1.2;
+}
+
+body {
+    column-count: 2;
+    column-gap: 9mm;
+    column-rule: 0.5px solid #cccccc;
+    column-fill: balance;
+}
+
+/* Main title spans both columns */
+h1 {
+    column-span: all;
+    font-size: 15pt;
+    margin: 0 0 8pt;
+    padding-bottom: 5pt;
+    border-bottom: 1px solid #777;
+}
+
+/* Section headings */
+h2, h3 {
+    font-size: 10pt;
+    margin: 7pt 0 3pt;
+    break-after: avoid;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7.2pt;
+    margin: 3pt 0 6pt;
+    break-inside: avoid;
+}
+
+th, td {
+    padding: 3px;
+    border: 0.5px solid #bbb;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background: #eee;
+}
+
+/* Keep question blocks together */
+blockquote, pre {
+    break-inside: avoid;
+}
+
+p {
+    margin: 2pt 0 4pt;
+}
+
+ul, ol {
+    padding-left: 13px;
+    margin: 2pt 0 4pt;
+}
+
+li {
+    margin-bottom: 2px;
+}
