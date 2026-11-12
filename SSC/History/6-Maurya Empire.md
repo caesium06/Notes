@@ -57,11 +57,11 @@ Exam Trap:
 
 ## 4. Ashoka (273–232 BCE)
 
-[Lion Capital of the Mauryan King Ashoka | Asia Research News](https://images.openai.com/static-rsc-4/n7537UTwXFcQ4Uw9iBJ4016X5TKr8tuTJfrgQ9fmfYOictdOTKSB94fhaTmysUFa5z42gL1sD_CwU9CsrqrLnQEsL2gFkRusSRFJqQ7IjipfZUVajNTW6oy2qPkGTyvYHO1Uhn5Zv2GuQHkXOHG_hY759SjeXWtIf4UxNSoK6-k?purpose=inline)
+![Lion Capital of the Mauryan King Ashoka | Asia Research News](images/lion_capital_of_the_mauryan_king_ashoka___asia_research_news_5a70564bf9.jpg)
 
-[Ashoka Pillar at Vaishali in Bihar, India](https://images.openai.com/static-rsc-4/4cTZm_zCGvG5nfKuMf4dNakWNyI7k5kB4x7hOkKlnzsvBfn6oT6xhq0i_tddeVyu7cxVtsHAOyzgygsoCSGPlUen1DogvKIskZAVchsnCjn_2TyxaaDQ05foPPEEXIraBd-jn60MNZkAsLvuG719Fjiau9wi_LvDNS6lyA7tANalqsEJ38CtuUGBqJ7KWe2u?purpose=inline)
+![Ashoka Pillar at Vaishali in Bihar, India](images/ashoka_pillar_at_vaishali_in_bihar__india_1a44169f1e.jpg)
 
-[Which Rock Edict of Ashoka speaks of religious synthesis?](https://images.openai.com/static-rsc-4/P8Qj3XED_WQBYKWo5NjndfLPY74cDiBAkR-gea0o9JIXfbHe_RrsKECDoab0ZhUsWHlNNBGPXsLp2YhBuf0LAxvNQf6BMPsI2LS61dAVV_WAlc9Nd8qdnXW0piXrTQxWMCcH_d6vT9ZKx7tv0oYftiWgV07yKE_f0Fmlf7KRcxw?purpose=inline)
+![Which Rock Edict of Ashoka speaks of religious synthesis?](images/which_rock_edict_of_ashoka_speaks_of_religious_synthesis__c55b6023d7.jpg)
 
 5
 
@@ -111,9 +111,9 @@ Important: Kalinga War is described in Major Rock Edict XIII.
 
 ## 5. Ashoka's Inscriptions and Edicts
 
-[File:3rd-century BCE Jonnagiri Erragudi Yerragudi Asoka rock edict inscription, Andhra Pradesh India - 05.jpg - Wikimedia Commons](https://images.openai.com/static-rsc-4/Ja1-0Zd8cwCj9X-dfyhnq9GkztL7jdDUs0itevjkgYMlIFxChc8QBaAUJpJ9ClB5jzTbDx_FEZdQ_dXWw-cv9z39ZD6unj0SmAl8FV0E9bN98eSWe4_8N3PaIbidmONQcNZLxt4VHiqNhxLDAKed79dJEix2TLxFjbRvr4A258I?purpose=inline)
+![File:3rd-century BCE Jonnagiri Erragudi Yerragudi Asoka rock edict inscription, Andhra Pradesh India - 05.jpg - Wikimedia Commons](images/file_3rd-century_bce_jonnagiri_erragudi_yerragudi_asoka_rock_edic_55a7328a66.jpg)
 
-[File:Delhi-Topra pillar Brahmi and Nagari.jpg - Wikimedia Commons](https://images.openai.com/static-rsc-4/e6-phDUZN8F-8BssHsLvsWInI748RSA7ogvPObA8qW8ZkQX4AbT9w6sdaFIE05B0BczpROjGEZUn9OzkZgtjO0iV3X8LvR8S-470tgwq0RnhiHL0JaAOcNO9EWuoYgKLcQHxWTQRyASEIwxLVlFfSkUsDfadIVF9ugda_FBTKH4?purpose=inline)
+![File:Delhi-Topra pillar Brahmi and Nagari.jpg - Wikimedia Commons](images/file_delhi-topra_pillar_brahmi_and_nagari_jpg_-_wikimedia_commons_66efcc8577.jpg)
 
 7
 
@@ -189,11 +189,11 @@ Important: Land revenue was generally known as Bhaga.
 
 ## 8. Art and Architecture
 
-[Lion Pillar of Emperor Ashoka at the Monkey Pond by Indian](https://images.openai.com/static-rsc-4/cbgYhQ509ucv2yw5H7dv-MpMX5zHaABnFDJYTCNBFqXG64d7F_X8sPVeRdpTtnUJ1IbsN_NPtxOW1jvzWlKRYmqXjEUSZWpiLRQuegZ_lWGlu0e8p0EFojRbQK46Q2B1q9ddOohmkfU0uqfzn0WmQ39H6-86qwvG8FP1U8A2sJA?purpose=inline)
+![Lion Pillar of Emperor Ashoka at the Monkey Pond by Indian](images/lion_pillar_of_emperor_ashoka_at_the_monkey_pond_by_indian_0e56bb924d.jpg)
 
-[How Exposure to Indian Art Taught Me to Love My Body — YourLifeIsATrip.com](https://images.openai.com/static-rsc-4/8OlXTkhP0_JJM9lpWw-xQLFvNB92q0P0v-Ns9sF0R6E0NHmMn4SOZ2XcJROYQC2eDLLQI2fc3Y5Fyha1B6Jr30vuGZUJPoNuakzcRPll8NclfvLbFxOtlGRE4TTscKa2-nKJRJaJTWN-r26_1yEIT9huHAEXQKOsgNQsQmm0Xik?purpose=inline)
+![How Exposure to Indian Art Taught Me to Love My Body — YourLifeIsATrip.com](images/how_exposure_to_indian_art_taught_me_to_love_my_body___yourlifeis_eef501a8a3.jpg)
 
-[Barabar Caves, Sultanpur - TimesTravel](https://images.openai.com/static-rsc-4/D5Ealx2lCFBwfOCX2_EMjsl7kxncTBvWx9D2rAoPRd6uqW8ZQT5w4ldHVYMONTT2UsPAve3px_3NM5ln1DXAOzxFCo28rIGjTT2rjqvLJU1IbnykYynh1o0uEQMsx4dEvZX3hr4sew3uQvvzrk6xCEdrgY2nK-I8JgsRFYOzebY?purpose=inline)
+![Barabar Caves, Sultanpur - TimesTravel](images/barabar_caves__sultanpur_-_timestravel_22dd0e8a67.jpg)
 
 4
 

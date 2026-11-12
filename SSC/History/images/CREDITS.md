@@ -1,0 +1,5 @@
+# Image Credits
+
+- **Map of Late Vedic Culture** (`images/map_of_late_vedic_culture_2fcea426d3.png`): File:Late Vedic Culture (1100-500 BCE).png | Avantiputra7 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png
+- **Painted Grey Ware pottery** (`images/painted_grey_ware_pottery_cf43af2d79.jpg`): File:Painted Grey Ware - Sonkh - 1000-600 BCE - Showcase 6-15 - Prehistory and Terracotta Gallery - Government Museum - Mathura 2013-02-24 6461.JPG | Biswarup Ganguly | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_-_Sonkh_-_1000-600_BCE_-_Showcase_6-15_-_Prehistory_and_Terracotta_Gallery_-_Government_Museum_-_Mathura_2013-02-24_6461.JPG
+- **Rigveda Sanskrit manuscript** (`images/rigveda_sanskrit_manuscript_3100b9385d.jpg`): File:Aitareya Upanishad, Sanskrit, Rigveda, Devanagari script, 1865 CE manuscript.jpg | Ms Sarah Welch | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Aitareya_Upanishad,_Sanskrit,_Rigveda,_Devanagari_script,_1865_CE_manuscript.jpg
