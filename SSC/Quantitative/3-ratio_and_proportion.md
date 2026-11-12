@@ -1,408 +1,297 @@
-# Ratio and Proportion – SSC CGL / CHSL / CPO
+# Ratio and Proportion
 
-## 1. Ratio
+## 1. Core Concepts / Definitions
 
-- Ratio compares two quantities of the same kind.
-- Written as `a : b` or `a/b`.
-- Ratio has no unit.
-- Both quantities must be in the same unit.
-
-**Example:**
+- **Ratio:** a comparison of two quantities of the **same kind and same unit**, written **a : b** (read "a is to b"); a is the **antecedent** and b is the **consequent**.
+- A ratio has **no unit**, and \(b \neq 0\).
+- **Proportion:** an equality of two ratios, **a : b = c : d** (also written a : b :: c : d).
+    - **Extremes:** a and d. **Means:** b and c.
+    - **Product of extremes = product of means:**
 
 $$
-20:30 = 2:3
+\boxed{ad = bc}
 $$
 
-### Important Properties
+- **Continued proportion:** a : b = b : c = c : d.
+- **Types of ratio:**
 
-| Property | Formula |
+| Type | Meaning | Example (a : b) |
+|---|---|---|
+| Inverse (reciprocal) | b : a | 3 : 4 becomes 4 : 3 |
+| Duplicate | a² : b² | 2 : 3 becomes 4 : 9 |
+| Triplicate | a³ : b³ | 2 : 3 becomes 8 : 27 |
+| Sub-duplicate | √a : √b | 4 : 9 becomes 2 : 3 |
+| Sub-triplicate | cube root of a : cube root of b | 8 : 27 becomes 2 : 3 |
+| Compound | ac : bd (for a : b and c : d) | (2 : 3) and (4 : 5) become 8 : 15 |
+
+## 2. Important Formulas
+
+**Proportionals**
+
+| Term | Condition | Formula |
+|---|---|---|
+| Fourth proportional to a, b, c | a : b = c : x | x = bc / a |
+| Third proportional to a, b | a : b = b : x | x = b² / a |
+| Mean proportional between a, b | a : x = x : b | x = √(ab) |
+
+**Sharing a quantity N in ratio a : b : c**
+
+$$
+\text{First share} = \frac{a}{a+b+c} \times N
+$$
+
+**Partnership**
+
+$$
+\text{Profit ratio} = (\text{Capital}_1 \times \text{Time}_1) : (\text{Capital}_2 \times \text{Time}_2)
+$$
+
+**Variation**
+
+| Type | Rule |
 |---|---|
-| Invertendo | $$a:b = b:a$$ (inverted) |
-| Duplicate ratio | $$a^2:b^2$$ |
-| Triplicate ratio | $$a^3:b^3$$ |
-| Sub-duplicate ratio | $$\sqrt a:\sqrt b$$ |
-| Compound ratio | $$ac:bd$$ |
+| Direct | x/y = constant (both rise or fall together) |
+| Inverse | x × y = constant (one rises, other falls) |
+| Men-days (inverse) | M₁ × D₁ = M₂ × D₂ |
 
-## 2. Proportion
-
-When two ratios are equal, they are in proportion.
+**Percentage change in terms:** if a : b changes by x% and y% respectively:
 
 $$
-a:b = c:d
+\text{New ratio} = a\left(1+\frac{x}{100}\right) : b\left(1+\frac{y}{100}\right)
 $$
 
-**Important rule:**
+## 3. Properties and Rules
+
+If **a : b = c : d**, then:
+
+| Property | Result |
+|---|---|
+| Invertendo | b : a = d : c |
+| Alternendo | a : c = b : d |
+| Componendo | (a + b) : b = (c + d) : d |
+| Dividendo | (a − b) : b = (c − d) : d |
+| Componendo-Dividendo | (a + b) : (a − b) = (c + d) : (c − d) |
+
+- **Equal ratios:** if a/b = c/d = e/f = k, then
 
 $$
-a \times d = b \times c
+\frac{a+c+e}{b+d+f} = k
 $$
 
-- a, d = Extremes
-- b, c = Means
+- Multiplying or dividing **both terms** by the same non-zero number **does not change** the ratio.
+- Adding or subtracting the same number from both terms **does change** the ratio.
+- **Effect of adding the same number x to both terms of a fraction:**
+    - If a < b (proper), the fraction **increases**.
+    - If a > b (improper), the fraction **decreases**.
+- **Comparing ratios:** a/b > c/d if and only if ad > bc (for positive terms).
 
-### Third Proportional
+## 4. Shortcuts and Tricks
 
-If:
+- **Total-parts method:** the sum must be a multiple of (a + b + c). Use this to eliminate wrong options quickly.
+- **Linking two ratios:** a : b = m : n and b : c = p : q.
+    - Make b equal in both (multiply by LCM of n and p).
+    - Example: 2 : 3 and 4 : 5. Since the b-terms are 3 and 4, scale the first by 4 and the second by 3, giving **8 : 12 : 15**.
+- **Ratio of fractions:** 1/a : 1/b : 1/c = **bc : ac : ab**, or take the LCM of denominators.
+    - Example: 1/2 : 1/3 : 1/4 becomes 6 : 4 : 3.
+- **When a term stays constant** (sum, difference or one person's quantity), scale both ratios so that term matches.
+- **Age problems:** use 5x and 3x for present ages, then add or subtract the same number of years from every person.
+- **Coins problems:** convert the number-ratio to a value-ratio by multiplying by the coin value.
+- **Mixtures with fixed ratio:** find each ingredient's quantity first, then adjust one ingredient and keep the other fixed.
+- **Man-days problems:** the product M × D (work) is constant, so solve in one step.
 
-$$
-a:b = b:x
-$$
+## 5. Important Concepts for SSC
 
-Then:
+- **Frequently tested topics:** sharing in a ratio; ratio change after adding or subtracting; ages; incomes, expenditures and savings; coins; mixtures; partnership; proportionals (third, fourth, mean).
+- **Income-expenditure type:** let incomes be ax, bx and expenditures be cy, dy. Use "savings equal" or "savings given" to form two equations.
+- **Mean proportional vs average:** the mean proportional of a and b is √(ab), **not** (a + b)/2.
+- **Partnership:** profit is shared in the ratio of (capital × time), not capital alone.
+- **Duplicate ratio** of a : b is a² : b² and **sub-duplicate** is √a : √b (do not interchange).
 
-$$
-x = \frac{b^2}{a}
-$$
+## 6. PYQ-Pattern Questions with Solutions
 
-### Fourth Proportional
+*(Pattern-based questions, not verified past-paper questions.)*
 
-If:
+**Q1.** ₹1050 is divided among A, B and C in the ratio 2 : 3 : 5. Find C's share.
 
-$$
-a:b = c:x
-$$
+**Answer: ₹525**
 
-Then:
+- Total parts = 2 + 3 + 5 = 10, so 1 part = 105.
+- C = 5 × 105 = **525**.
 
-$$
-x = \frac{bc}{a}
-$$
+**Q2.** Find the fourth proportional to 4, 9 and 12.
 
-## 3. Important Shortcuts
-
-### A. Dividing an Amount in a Given Ratio
-
-If total amount is P and ratio is a : b:
-
-First share:
-
-$$
-A = \frac{aP}{a+b}
-$$
-
-Second share:
-
-$$
-B = \frac{bP}{a+b}
-$$
-
-### B. Ratio and Sum Given
-
-If ratio is a : b and sum is S:
+**Answer: 27**
 
 $$
-x = \frac{S}{a+b}
+x = \frac{9 \times 12}{4} = \boxed{27}
 $$
 
-Actual numbers:
+**Q3.** Find the third proportional to 12 and 18.
+
+**Answer: 27**
 
 $$
-A = ax,\quad B = bx
+x = \frac{18^2}{12} = \frac{324}{12} = \boxed{27}
 $$
 
-### C. Ratio and Difference Given
+**Q4.** Find the mean proportional between 12 and 27.
 
-If ratio is a : b and difference is D:
-
-$$
-x = \frac{D}{|a-b|}
-$$
-
-Actual numbers:
+**Answer: 18**
 
 $$
-A = ax,\quad B = bx
+x = \sqrt{12 \times 27} = \sqrt{324} = \boxed{18}
 $$
 
-### D. Combining Ratios
+**Q5.** A : B = 2 : 3 and B : C = 4 : 5. If the total is ₹7000, find C's share.
 
-If:
+**Answer: ₹3000**
 
-$$
-A:B = 2:3
-$$
+- Make B equal: A : B = 8 : 12 and B : C = 12 : 15, so A : B : C = **8 : 12 : 15**.
+- Total parts = 35, so 1 part = 200.
+- C = 15 × 200 = **3000**.
 
-$$
-B:C = 4:5
-$$
-
-Make the common term B equal using LCM of 3 and 4 = 12.
-
-$$
-A:B = 8:12
-$$
-
-$$
-B:C = 12:15
-$$
-
-Therefore:
-
-$$
-\boxed{A:B:C = 8:12:15}
-$$
-
-### E. Ratio Change
-
-If A : B = a : b, and A increases by x%:
-
-$$
-\text{New ratio} = a(100+x):100b
-$$
-
-If A decreases by x%:
-
-$$
-\text{New ratio} = a(100-x):100b
-$$
-
-### F. Age Problems
-
-If present ages are in ratio a : b:
-
-$$
-A=ax,\quad B=bx
-$$
-
-After n years:
-
-$$
-\frac{ax+n}{bx+n}
-$$
-
-Before n years:
-
-$$
-\frac{ax-n}{bx-n}
-$$
-
-**Important:** Age difference always remains constant.
-
-### G. Direct and Inverse Proportion
-
-**Direct proportion:** If one quantity increases, the other also increases.
-
-$$
-\frac{x_1}{x_2} = \frac{y_1}{y_2}
-$$
-
-**Inverse proportion:** If one quantity increases, the other decreases.
-
-$$
-\frac{x_1}{x_2} = \frac{y_2}{y_1}
-$$
-
-## 4. Important SSC Concepts
-
-### Percentage and Ratio
-
-If 40% of A = 60% of B:
-
-$$
-\frac{40A}{100} = \frac{60B}{100}
-$$
-
-$$
-\boxed{A:B = 3:2}
-$$
-
-### Ratio of Areas
-
-Ratio of areas of two circles:
-
-$$
-A_1:A_2 = r_1^2:r_2^2
-$$
-
-### Ratio of Volumes
-
-Ratio of volumes of two spheres:
-
-$$
-V_1:V_2 = r_1^3:r_2^3
-$$
-
----
-
-## 5. SSC PYQ-Pattern Questions
-
-*Practice questions based on SSC CGL, CHSL and CPO question patterns. These are not claimed as verbatim PYQs.*
-
-**Q1.** Two numbers are in the ratio 3 : 5. If their sum is 64, find the smaller number.
+**Q6.** Two numbers are in the ratio 3 : 4. If 6 is added to each, the ratio becomes 4 : 5. Find the larger number.
 
 **Answer: 24**
 
-$$
-x = \frac{64}{3+5}=8
-$$
+- (3x + 6)/(4x + 6) = 4/5, so 15x + 30 = 16x + 24 and x = 6.
+- Numbers are 18 and 24. Check: 24/30 = 4/5.
+
+**Q7.** The incomes of A and B are in the ratio 5 : 4 and their expenditures in the ratio 3 : 2. If each saves ₹1600, find A's income.
+
+**Answer: ₹4000**
+
+- Let incomes be 5x and 4x, and expenditures 3y and 2y.
+- 5x − 3y = 1600 and 4x − 2y = 1600.
+- From the second, y = 2x − 800. Substituting in the first: 5x − 6x + 2400 = 1600, so x = 800.
+- A's income = 5 × 800 = **4000**.
+
+**Q8.** The present ages of A and B are in the ratio 5 : 3. After 6 years the ratio will be 11 : 7. Find A's present age.
+
+**Answer: 60 years**
+
+- (5x + 6)/(3x + 6) = 11/7, so 35x + 42 = 33x + 66 and x = 12.
+- A = 5 × 12 = **60**.
+
+**Q9.** A 40-litre mixture contains milk and water in the ratio 3 : 2. How much water must be added so that the ratio becomes 3 : 4?
+
+**Answer: 16 litres**
+
+- Milk = 24 L, water = 16 L.
+- For 3 : 4, water must be 24 × 4/3 = 32 L.
+- Water to add = 32 − 16 = **16 L**.
+
+**Q10.** If a : b = 3 : 4, find (2a + 3b) : (3a + 2b).
+
+**Answer: 18 : 17**
+
+- Take a = 3 and b = 4: (6 + 12) : (9 + 8) = **18 : 17**.
+
+**Q11.** If (a + b)/(a − b) = 7/3, find a : b.
+
+**Answer: 5 : 2**
+
+- By componendo-dividendo: a/b = (7 + 3)/(7 − 3) = 10/4 = **5/2**.
+
+**Q12.** A bag contains ₹1, 50 paise and 25 paise coins in the ratio 3 : 4 : 8 (by number). If the total value is ₹28, find the number of 25 paise coins.
+
+**Answer: 32**
+
+- Value = 3x(1) + 4x(0.5) + 8x(0.25) = 3x + 2x + 2x = 7x.
+- 7x = 28, so x = 4 and the number of 25 paise coins = 8 × 4 = **32**.
+
+## 7. Practice Questions
+
+**P1 (Easy).** Simplify the ratio 0.75 : 1.25.
+
+**Answer: 3 : 5**
+
+- Multiply both by 100: 75 : 125. Divide by 25 to get **3 : 5**.
+
+**P2 (Easy).** Which is greater, 7 : 9 or 8 : 11?
+
+**Answer: 7 : 9**
+
+- Cross-multiply: 7 × 11 = 77 and 8 × 9 = 72. Since 77 > 72, 7 : 9 is greater.
+
+**P3 (Easy).** 12 men can finish a job in 20 days. In how many days can 15 men finish it?
+
+**Answer: 16 days**
+
+- Work = 12 × 20 = 240, so days = 240/15 = **16**.
+
+**P4 (Moderate).** Find the third proportional to 0.4 and 0.6.
+
+**Answer: 0.9**
 
 $$
-3x = 3 \times 8 = 24
+x = \frac{0.6^2}{0.4} = \frac{0.36}{0.4} = \boxed{0.9}
 $$
 
-**Q2.** The ratio of A and B is 4 : 7. If their difference is 45, find B.
+**P5 (Moderate).** ₹5200 is divided among A, B and C such that their shares are in the ratio 1/2 : 1/3 : 1/4. Find A's share.
 
-**Answer: 105**
+**Answer: ₹2400**
 
-$$
-x = \frac{45}{7-4}=15
-$$
+- 1/2 : 1/3 : 1/4 = 6 : 4 : 3 (LCM 12). Total parts = 13, so 1 part = 400.
+- A = 6 × 400 = **2400**.
 
-$$
-B = 7 \times 15 = 105
-$$
-
-**Q3.** If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C.
-
-**Answer: 8 : 12 : 15**
-
-**Q4.** ₹840 is divided between A and B in the ratio 3 : 4. Find B's share.
-
-**Answer: ₹480**
-
-$$
-B = \frac{4}{3+4}\times840
-$$
-
-$$
-B = 480
-$$
-
-**Q5.** The present ages of A and B are in the ratio 5 : 7. After 6 years, their ages will be in the ratio 3 : 4. Find A's present age.
-
-**Answer: 30 years**
-
-$$
-\frac{5x+6}{7x+6} = \frac{3}{4}
-$$
-
-$$
-20x+24=21x+18
-$$
-
-$$
-x=6
-$$
-
-$$
-A=5\times6=30
-$$
-
-**Q6.** If 40% of A = 60% of B, find A : B.
-
-**Answer: 3 : 2**
-
-**Q7.** The ratio of two numbers is 7 : 9. If each is increased by 10, the ratio becomes 4 : 5. Find the smaller number.
-
-**Answer: 70**
-
-$$
-\frac{7x+10}{9x+10}=\frac45
-$$
-
-$$
-35x+50=36x+40
-$$
-
-$$
-x=10
-$$
-
-$$
-7x=70
-$$
-
-**Q8.** If A : B = 3 : 4 and B : C = 8 : 9, find A : C.
-
-**Answer: 2 : 3**
-
-**Q9.** The ratio of boys and girls in a class is 5 : 3. If 10 boys leave, the ratio becomes 5 : 4. Find the original number of students.
+**P6 (Moderate).** In a class, boys : girls = 5 : 3. If 12 boys leave and 4 girls join, the numbers become equal. Find the original strength.
 
 **Answer: 64**
 
-$$
-\frac{5x-10}{3x}=\frac54
-$$
+- 5x − 12 = 3x + 4, so x = 8.
+- Total = 8x = **64** (40 boys and 24 girls).
 
-$$
-20x-40=15x
-$$
+**P7 (Difficult).** If a : b = 3 : 4, b : c = 6 : 5 and c : d = 10 : 7, find a : d.
 
-$$
-x=8
-$$
+**Answer: 9 : 7**
 
-$$
-\text{Total}=8(5+3)=64
-$$
+- Make b equal: a : b = 9 : 12 and b : c = 12 : 10, so a : b : c = 9 : 12 : 10.
+- c : d = 10 : 7 already has c = 10, so a : b : c : d = 9 : 12 : 10 : 7 and a : d = **9 : 7**.
 
-**Q10.** Find the fourth proportional to 4, 6 and 8.
+**P8 (Difficult).** A : B = 2 : 3 and B : C = 5 : 7. If A + C = ₹3100, find B's amount.
 
-**Answer: 12**
+**Answer: ₹1500**
 
-$$
-4:6=8:x
-$$
+- A : B = 10 : 15 and B : C = 15 : 21, so A : B : C = 10 : 15 : 21.
+- A + C = 31 parts = 3100, so 1 part = 100.
+- B = 15 × 100 = **1500**.
 
-$$
-x=\frac{6\times8}{4}=12
-$$
+## 8. Common Exam Traps
 
----
+- **Order matters:** a : b is not the same as b : a. Read "ratio of A to B" carefully.
+- **Same units:** convert all quantities to the same unit (rupees and paise, hours and minutes) before forming a ratio.
+- **Mean proportional** is √(ab), **not** the average (a + b)/2.
+- **Third proportional to a, b** is b²/a, **not** ab.
+- **Fourth proportional** is bc/a only for a : b = c : x. Check which term is missing.
+- **Adding the same number to both terms changes the ratio**, but multiplying both by the same number does not.
+- **Sum-of-parts trap:** use total parts (a + b + c), not the sum of the original quantities.
+- **Partnership:** time matters. Use capital × time, not just capital, when investment periods differ.
+- **Direct vs inverse variation:** more men means fewer days (inverse), not more.
+- **Coins:** ratio of **number of coins** is not the ratio of **value**. Multiply by the coin value first.
+- **Componendo-dividendo** requires a valid proportion; avoid dividing by zero.
 
-## 6. Practice Questions
+## 9. Last-Minute Revision Table
 
-Try solving these without referring to the answers.
-
-**Q1.** Two numbers are in the ratio 5 : 8. Their sum is 91. Find the larger number.
-
-**Answer: 56**
-
-**Q2.** If A : B = 7 : 9 and B : C = 3 : 5, find A : B : C.
-
-**Answer: 7 : 9 : 15**
-
-**Q3.** Divide ₹1,260 in the ratio 2 : 3 : 4. Find the largest share.
-
-**Answer: ₹560**
-
-**Q4.** The ratio of two numbers is 4 : 7. If 8 is added to each, the ratio becomes 2 : 3. Find the smaller number.
-
-**Answer: 16**
-
-**Q5.** If 25% of A = 40% of B, find A : B.
-
-**Answer: 8 : 5**
-
-**Q6.** The ages of two persons are in the ratio 3 : 5. After 10 years, the ratio becomes 5 : 7. Find the younger person's present age.
-
-**Answer: 15 years**
-
----
-
-## 7. SSC Exam Traps
-
-1. Ratio does not change when both terms are multiplied or divided by the same non-zero number.
-2. Ratio of areas is the square of the ratio of corresponding lengths.
-3. Ratio of volumes is the cube of the ratio of corresponding lengths.
-4. If A : B = 2 : 3, A is not 2% of B.
-5. In age problems, age difference remains constant.
-6. In proportion, product of extremes = product of means.
-
----
-
-## 8. Last-Minute Revision Table
-
-| Concept | Formula |
+| Topic | Key Formula / Fact |
 |---|---|
-| Sum given | $$x=\frac{S}{a+b}$$ |
-| Difference given | $$x=\frac{D}{\lvert a-b\rvert}$$ |
-| Third proportional | $$\frac{b^2}{a}$$ |
-| Fourth proportional | $$\frac{bc}{a}$$ |
-| Compound ratio | $$ac:bd$$ |
-| Duplicate ratio | $$a^2:b^2$$ |
-| Triplicate ratio | $$a^3:b^3$$ |
-| Direct proportion | $$\frac{x_1}{x_2}=\frac{y_1}{y_2}$$ |
-| Inverse proportion | $$\frac{x_1}{x_2}=\frac{y_2}{y_1}$$ |
-
-**Preparation Priority:** Combining ratios, ratio changes, age problems, distribution of amounts, and direct/inverse proportion.
+| Proportion | a : b = c : d, so ad = bc |
+| Fourth proportional | bc / a |
+| Third proportional | b² / a |
+| Mean proportional | √(ab) |
+| Duplicate ratio | a² : b² |
+| Triplicate ratio | a³ : b³ |
+| Sub-duplicate ratio | √a : √b |
+| Compound ratio | ac : bd |
+| Inverse ratio | b : a |
+| Sharing N in a : b : c | First = a/(a+b+c) × N |
+| Linking ratios | Make the common term equal using LCM |
+| Reciprocal ratio | 1/a : 1/b : 1/c = bc : ac : ab |
+| Componendo-dividendo | (a+b)/(a−b) = (c+d)/(c−d) |
+| Equal ratios | a/b = c/d = e/f = k, so (a+c+e)/(b+d+f) = k |
+| Partnership | Profit ratio = capital × time |
+| Direct variation | x/y is constant |
+| Inverse variation | x × y is constant |
+| Men-days | M₁D₁ = M₂D₂ |
+| Adding same number to fraction | Proper fraction rises; improper fraction falls |
+| Savings problems | Set up two equations: income − expenditure = savings |
