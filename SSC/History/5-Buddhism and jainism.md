@@ -1,489 +1,309 @@
-# Buddhism and Jainism – SSC Short Notes
-
-## 1. Buddhism
-
-### Founder and Origin
-
-- Founder: Gautama Buddha (Siddhartha)
-- Birth: 563 BCE – Lumbini (present-day Nepal)
-- Father: Suddhodana – Chief of the Shakya clan
-- Mother: Maya Devi
-- Wife: Yashodhara
-- Son: Rahula
-- Clan: Shakya
-- Contemporary ruler: Bimbisara (Magadha)
-
-### Important Events in Buddha's Life
-
-| Event                                  | Place       | Age / Year         |
-| -------------------------------------- | ----------- | ------------------ |
-| Birth                                  | Lumbini     | 563 BCE            |
-| Renunciation (Mahabhinishkramana)      | Kapilavastu | 29 years           |
-| Enlightenment                          | Bodh Gaya   | 35 years           |
-| First Sermon (Dharmachakra Pravartana) | Sarnath     | 35 years           |
-| Mahaparinirvana (Death)                | Kushinagar  | 483 BCE / 80 years |
-
-Important facts:
-
-- Buddha attained enlightenment under the Bodhi tree (Peepal tree).
-- First sermon was delivered at Deer Park, Sarnath.
-- Buddha belonged to the Kshatriya varna.
-- He attained Mahaparinirvana at Kushinagar.
-- The four major places associated with Buddha's life are collectively important Buddhist pilgrimage sites.
-
-### Four Noble Truths (Arya Satya)
-
-1. Dukkha: Life involves suffering.
-2. Samudaya: Desire and craving are the causes of suffering.
-3. Nirodha: Suffering can be eliminated.
-4. Magga: The path to eliminate suffering is the Eightfold Path.
-
-### Eightfold Path (Ashtangika Marga)
-
-| Path                | Meaning                |
-| ------------------- | ---------------------- |
-| Right View          | Correct understanding  |
-| Right Resolve       | Right intention        |
-| Right Speech        | Truthful speech        |
-| Right Action        | Moral conduct          |
-| Right Livelihood    | Right means of earning |
-| Right Effort        | Proper effort          |
-| Right Mindfulness   | Awareness              |
-| Right Concentration | Meditation             |
-
-Shortcut: Wisdom (2) + Ethical Conduct (3) + Mental Discipline (3) = 8.
-
-### Important Buddhist Concepts
-
-- Middle Path: Avoidance of extreme luxury and extreme austerity.
-- Triratna (Three Jewels):
-  1. Buddha
-  2. Dhamma (teachings)
-  3. Sangha (monastic community)
-- Ahimsa: Non-violence.
-- Anitya: Impermanence of everything.
-- Anatman: No permanent, unchanging self.
-- Karma: Actions determine future consequences.
-- Nirvana: Liberation from suffering and the cycle of rebirth.
-
-### Buddhist Councils
-
-| Council | Place                | Patron / Ruler | Important Outcome                                            |
-| ------- | -------------------- | -------------- | ------------------------------------------------------------ |
-| First   | Rajagriha            | Ajatashatru    | Compilation of Buddha's teachings                            |
-| Second  | Vaishali             | Kalashoka      | Disputes over monastic rules                                 |
-| Third   | Pataliputra          | Ashoka         | Led by Moggaliputta Tissa; compilation of Kathavatthu        |
-| Fourth  | Kashmir (Kundalvana) | Kanishka       | Associated with Vasumitra; development of Mahayana tradition |
-
-Important SSC facts:
-
-- First Buddhist Council: Shortly after Buddha's death.
-- Second Council: Led to the division between Sthavira and Mahasanghika traditions.
-- Third Council: Associated with the spread of Buddhism through missionary activities.
-- Fourth Council: Associated with the development of Mahayana Buddhism.
-- Upali: Recited Vinaya Pitaka.
-- Ananda: Recited Sutta Pitaka.
-
-### Buddhist Scriptures
-
-| Scripture         | Subject                              |
-| ----------------- | ------------------------------------ |
-| Vinaya Pitaka     | Monastic rules and discipline        |
-| Sutta Pitaka      | Buddha's teachings and sermons       |
-| Abhidhamma Pitaka | Philosophical and doctrinal analysis |
-
-- The three Pitakas together are called Tripitaka.
-- Originally preserved mainly in Pali in the Theravada tradition.
-- Jataka Tales: Stories of Buddha's previous births.
-- Dhammapada: Collection of Buddhist sayings and teachings.
-
-### Buddhist Schools
-
-| Hinayana (Theravada)                     | Mahayana                                              |
-| ---------------------------------------- | ----------------------------------------------------- |
-| Earlier conservative tradition           | Developed as a distinct movement                      |
-| Ideal: Arhat                             | Ideal: Bodhisattva                                    |
-| Buddha primarily regarded as a teacher   | Buddha increasingly regarded as a transcendent figure |
-| Pali scriptures are central to Theravada | Sanskrit literature became important                  |
-| Emphasis on individual liberation        | Emphasis on liberation of all beings                  |
-
-Important: Vajrayana is another major Buddhist tradition, associated with tantric practices.
-
-### Important Buddhist Personalities
-
-| Personality        | Contribution                            |
-| ------------------ | --------------------------------------- |
-| Ashoka             | Promoted Buddhism through missions      |
-| Kanishka           | Patronised Buddhism                     |
-| Nagarjuna          | Associated with Madhyamaka philosophy   |
-| Buddhaghosa        | Wrote Visuddhimagga                     |
-| Vasumitra          | Associated with Fourth Buddhist Council |
-| Moggaliputta Tissa | Associated with Third Buddhist Council  |
-
-## 2. Jainism
-
-### Founder and Origin
-
-- 24 Tirthankaras: Jainism recognises 24 Tirthankaras.
-- First Tirthankara: Rishabhanatha (Adinath).
-- 23rd Tirthankara: Parshvanatha.
-- 24th Tirthankara: Mahavira.
-- Mahavira's original name: Vardhamana.
-- Birth: 599 BCE – Kundagrama (near Vaishali).
-- Father: Siddhartha.
-- Mother: Trishala.
-- Wife: Yashoda.
-- Daughter: Priyadarshana.
-- Clan: Jnatrika (Naya).
-- Contemporary ruler: Bimbisara.
-
-### Important Events in Mahavira's Life
-
-| Event                        | Place                                 | Age / Year         |
-| ---------------------------- | ------------------------------------- | ------------------ |
-| Birth                        | Kundagrama                            | 599 BCE            |
-| Renunciation                 | Home at Kundagrama                    | 30 years           |
-| Kevala Jnana (Enlightenment) | Near Jrimbhikagrama, under a Sal tree | 42 years           |
-| Nirvana (Death)              | Pavapuri, Bihar                       | 527 BCE / 72 years |
-
-Important facts:
-
-- Mahavira was the 24th Tirthankara.
-- He attained Kevala Jnana (supreme knowledge) after 12 years of severe austerity.
-- He attained Nirvana at Pavapuri.
-- Mahavira was a contemporary of Gautama Buddha.
-- Mahavira's teachings emphasised non-violence and strict self-discipline.
-
-### Five Great Vows (Panch Mahavrata)
-
-| Vow          | Meaning                         |
-| ------------ | ------------------------------- |
-| Ahimsa       | Non-violence                    |
-| Satya        | Truth                           |
-| Asteya       | Non-stealing                    |
-| Brahmacharya | Celibacy                        |
-| Aparigraha   | Non-possession / Non-attachment |
-
-Important SSC fact:
-
-- Parshvanatha, the 23rd Tirthankara, preached four vows:
-  - Ahimsa
-  - Satya
-  - Asteya
-  - Aparigraha
-- Mahavira added Brahmacharya as the fifth vow.
-
-### Important Jain Concepts
-
-- Triratna (Three Jewels):
-  1. Samyak Darshana – Right Faith
-  2. Samyak Jnana – Right Knowledge
-  3. Samyak Charitra – Right Conduct
-- Ahimsa: Non-violence towards all living beings.
-- Anekantavada: Reality has multiple aspects.
-- Syadvada: Doctrine of conditional or relative viewpoints.
-- Aparigraha: Non-attachment to possessions.
-- Kevala Jnana: Absolute or perfect knowledge.
-- Jiva: Living soul.
-- Ajiva: Non-living substances.
-- Moksha: Liberation from the cycle of birth and death.
-
-### Jain Councils and Scriptures
-
-| Council | Place              | Important Facts                                                               |
-| ------- | ------------------ | ----------------------------------------------------------------------------- |
-| First   | Pataliputra        | Associated with Sthulabhadra; compilation of Jain teachings                   |
-| Second  | Vallabhi (Gujarat) | Associated with Devardhigani Kshamashramana; final compilation of Jain Agamas |
-
-Jain Scriptures:
-
-- Jain religious texts are called Agamas.
-- Many early Jain texts were composed in Ardhamagadhi Prakrit.
-- Kalpa Sutra: Associated with Bhadrabahu; contains accounts of Tirthankaras and Jain monastic traditions.
-- Acharanga Sutra: Deals with the conduct of Jain monks.
-
-### Jainism: Two Major Sects
-
-Frequently asked
-
-| Digambara                                                 | Shvetambara                          |
-| --------------------------------------------------------- | ------------------------------------ |
-| Sky-clad                                                  | White-clad                           |
-| Monks traditionally practise nudity                       | Monks wear white clothes             |
-| Believes women must be reborn as men to attain liberation | Believes women can attain liberation |
-| Does not accept the original Agamas as preserved          | Accepts Jain Agamas                  |
-| Associated with Bhadrabahu                                | Associated with Sthulabhadra         |
-
-Important: The division into Digambara and Shvetambara is traditionally associated with differences that developed following a famine and migration of Jain monks.
-
-### Important Jain Personalities
-
-| Personality         | Contribution                                        |
-| ------------------- | --------------------------------------------------- |
-| Rishabhanatha       | First Tirthankara                                   |
-| Parshvanatha        | 23rd Tirthankara                                    |
-| Mahavira            | 24th Tirthankara                                    |
-| Bhadrabahu          | Associated with Digambara tradition                 |
-| Sthulabhadra        | Associated with Shvetambara tradition               |
-| Chandragupta Maurya | Traditionally associated with Jainism in later life |
-| Hemachandra         | Jain scholar and author                             |
-
-## 3. Buddhism vs Jainism – Important Differences
-
-| Basis                 | Buddhism                                  | Jainism                                   |
-| --------------------- | ----------------------------------------- | ----------------------------------------- |
-| Founder / Key teacher | Gautama Buddha                            | Mahavira (24th Tirthankara)               |
-| Period                | 6th century BCE                           | 6th century BCE                           |
-| Birthplace            | Lumbini                                   | Kundagrama                                |
-| Main objective        | Nirvana                                   | Moksha                                    |
-| Main teaching         | Middle Path                               | Strict Ahimsa and austerity               |
-| Soul                  | Rejects permanent self (Anatman)          | Believes in eternal soul (Jiva)           |
-| Vedas                 | Rejected Vedic authority                  | Rejected Vedic authority                  |
-| Caste system          | Opposed birth-based spiritual superiority | Opposed birth-based spiritual superiority |
-| Language              | Pali (Theravada tradition)                | Prakrit / Ardhamagadhi                    |
-| Important scripture   | Tripitaka                                 | Agamas                                    |
-| Main symbol           | Dharma Chakra                             | Hand with wheel (Ahimsa symbol)           |
-| Major divisions       | Theravada, Mahayana, Vajrayana            | Digambara, Shvetambara                    |
-
-## 4. Spread of Buddhism and Jainism
-
-### Buddhism
-
-- Ashoka: Played a major role in spreading Buddhism beyond India.
-- Mahinda and Sanghamitta: Traditionally credited with spreading Buddhism to Sri Lanka.
-- Kanishka: Supported Buddhism, particularly Mahayana.
-- Spread to:
-  - Sri Lanka
-  - Myanmar
-  - Thailand
-  - China
-  - Japan
-  - Tibet
-  - Korea
-
-### Jainism
-
-- Spread mainly across:
-  - Bihar
-  - Uttar Pradesh
-  - Gujarat
-  - Rajasthan
-  - Karnataka
-- Chandragupta Maurya: Traditionally associated with Jain monk Bhadrabahu and migration to Karnataka.
-- Shravanabelagola (Karnataka): Important Jain pilgrimage centre.
-- Dilwara Temples (Rajasthan): Famous Jain temples.
-- Ranakpur Temple (Rajasthan): Famous Jain temple dedicated to Adinatha.
+# Buddhism and Jainism — High-Yield SSC Notes
 
-## 5. Important SSC One-Liners
+---
 
-1. Gautama Buddha was born at Lumbini.
-2. Buddha attained enlightenment at Bodh Gaya.
-3. Buddha delivered his first sermon at Sarnath.
-4. Buddha attained Mahaparinirvana at Kushinagar.
-5. Buddha belonged to the Shakya clan.
-6. Buddha's original name was Siddhartha.
-7. Buddha's horse was named Kanthaka.
-8. Buddha's charioteer was Channa.
-9. Buddha's favourite disciple was Ananda.
-10. The first Buddhist Council was held at Rajagriha.
-11. The third Buddhist Council was held during Ashoka's reign.
-12. The fourth Buddhist Council is associated with Kanishka.
-13. The Buddhist sacred texts are called Tripitaka.
-14. Jataka tales describe Buddha's previous births.
-15. The Bodhi tree is a Peepal tree.
-16. The first Tirthankara of Jainism was Rishabhanatha.
-17. Mahavira was the 24th Tirthankara.
-18. Parshvanatha was the 23rd Tirthankara.
-19. Mahavira was born at Kundagrama.
-20. Mahavira attained Nirvana at Pavapuri.
-21. Mahavira's father's name was Siddhartha.
-22. Mahavira's mother's name was Trishala.
-23. Mahavira added Brahmacharya as the fifth vow.
-24. Jain sacred texts are called Agamas.
-25. Jainism's three jewels are Right Faith, Right Knowledge and Right Conduct.
-26. The Jain council at Vallabhi was associated with Devardhigani.
-27. The Jain monk traditionally associated with Chandragupta Maurya was Bhadrabahu.
-28. Anekantavada is a key Jain philosophical doctrine.
-29. The famous Jain pilgrimage centre Shravanabelagola is in Karnataka.
-30. Pavapuri is located in Bihar.
+## 1. Core Concepts & Origins
 
-## 6. PYQ / PYQ-Pattern Questions with Solutions
+* **Background:** Both arose in the **6th century BCE** in the Gangetic plains as heterodox (Nastika) protest movements against complex Vedic rituals, animal sacrifices, and rigid Varna hierarchy.
+* **Language of Preaching:** Both rejected Sanskrit and preached in vernacular languages—**Pali** (Buddhism) and **Prakrit / Ardhamagadhi** (Jainism)—making teachings accessible to Vaishyas and Shudras.
+* **Common Doctrines:** Both rejected the infallibility of the Vedas, emphasized **Ahimsa** (non-violence), believed in **Karma** and **rebirth**, and aimed at liberation (**Nirvana / Moksha**) from the cycle of transmigration.
+* **Key Philosophical Difference:**
+* **Buddhism:** Denies the existence of an eternal soul (**Anatta / Anatman**) and God; advocates the **Middle Path (Majjhima Patipada)**.
+* **Jainism:** Believes every living and non-living entity possesses a soul (**Jiva**); denies a creator God (places Jinas above gods); advocates **extreme asceticism**.
 
-These are representative SSC-style questions, not claimed as verbatim previous-year questions.
 
-### Q1. Where did Gautama Buddha deliver his first sermon?
 
-Answer: Sarnath.
+---
 
-Explanation: Buddha delivered his first sermon at Deer Park, Sarnath. It is known as Dharmachakra Pravartana.
+## 2. Buddhism: Life, Teachings & Councils
 
-### Q2. Which tree is associated with the enlightenment of Gautama Buddha?
+### Life of Gautama Buddha
 
-Answer: Peepal (Bodhi tree).
+| Event / Aspect | Key Fact | Symbol (Hinayana Art) |
+| --- | --- | --- |
+| **Birth** | **563 BCE** at **Lumbini** (Rummindei, Nepal) in the **Shakya** clan | Lotus and Bull |
+| **Parents & Family** | Father: **Suddhodana**; Mother: **Mahamaya**; Foster Mother: **Mahaprajapati Gautami** (first Bhikkhuni); Wife: **Yashodhara**; Son: **Rahula** | — |
+| **Renunciation** | Left home at age **29** (**Mahabhinishkramana**) with charioteer **Channa** and horse **Kanthaka** | Horse |
+| **Enlightenment** | At age **35** (**Nirvana / Sambodhi**) under a **Peepal (Bodhi) tree** at **Bodh Gaya** on the banks of river **Niranjana (Phalgu)** | Bodhi Tree |
+| **First Sermon** | At **Sarnath** (Deer Park / Isipatana) to 5 ascetics (**Dhammachakkapavattana**) | Wheel (Dharmachakra) |
+| **Death** | At age **80** (**483 BCE**) at **Kushinagar** (**Mahaparinirvana**) in the Malla republic | Stupa / Footprints |
 
-Explanation: Buddha attained enlightenment under the Bodhi tree at Bodh Gaya.
+![Mahabodhi Temple at Bodh Gaya](images/mahabodhi_temple_at_bodh_gaya_245d685252.jpg)
 
-### Q3. Who was the chairman of the Third Buddhist Council?
+*Fig. 1: Mahabodhi Temple, Bodh Gaya. Built at the site where Gautama Buddha attained enlightenment under the Bodhi tree; a UNESCO World Heritage Site and major Buddhist pilgrimage center.*
 
-Answer: Moggaliputta Tissa.
+### Core Buddhist Doctrines
 
-Explanation: The Third Buddhist Council was held at Pataliputra during Ashoka's reign.
+* **Four Noble Truths (Arya Satyani):**
+1. **Dukkha:** The world is full of suffering.
+2. **Samudaya:** Desire (**Tanha / Trishna**) is the root cause of suffering.
+3. **Nirodha:** Suffering can be ended by eliminating desire.
+4. **Magga:** Suffering ceases by following the **Eightfold Path**.
 
-### Q4. Who patronised the Fourth Buddhist Council?
 
-Answer: Kanishka.
+* **Noble Eightfold Path (Ashtangika Marga):** Right View, Right Resolve, Right Speech, Right Conduct, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration.
+* **Triratna (Three Jewels):** **Buddha** (the Enlightened One), **Dhamma** (the Teachings), and **Sangha** (the Monastic Order).
+* **Kshanikavada:** Doctrine of momentariness (everything in the universe is impermanent—*Anicca*).
+* **Pratityasamutpada:** Doctrine of dependent origination (nothing exists independently; every effect has a cause).
 
-Explanation: It was held at Kashmir, traditionally at Kundalvana, under the patronage of Kushan ruler Kanishka.
+### Four Buddhist Councils (Frequently Tested)
 
-### Q5. Which Buddhist scripture contains the rules of monastic discipline?
+| Council | Year | Place | Patron (Ruler) | President | Key Outcome |
+| --- | --- | --- | --- | --- | --- |
+| **First** | 483 BCE | **Rajagriha** (Sattaparni Cave) | **Ajatashatru** (Haryanka) | **Mahakassapa** | Compilation of **Sutta Pitaka** (by Ananda) and **Vinaya Pitaka** (by Upali) |
+| **Second** | 383 BCE | **Vaishali** | **Kalashoka** (Shishunaga) | **Sabakami** | Split into **Sthaviravadins** (orthodox) and **Mahasanghikas** (liberal) |
+| **Third** | 250 BCE | **Pataliputra** | **Ashoka** (Maurya) | **Moggaliputta Tissa** | Compilation of **Abhidhamma Pitaka**; missionaries sent abroad (Mahendra & Sanghamitra to Sri Lanka) |
+| **Fourth** | 72 CE / 1st C CE | **Kundalavana** (Kashmir) | **Kanishka** (Kushan) | **Vasumitra** (Vice: **Ashvaghosha**) | Division into **Hinayana** and **Mahayana**; Sanskrit adopted by Mahayana |
 
-Answer: Vinaya Pitaka.
+### Buddhist Literature & Sects
 
-Explanation: Vinaya Pitaka deals with rules and discipline for Buddhist monks and nuns.
+* **Tripitaka (Three Baskets — in Pali):**
+1. **Vinaya Pitaka:** Rules of monastic discipline for monks and nuns.
+2. **Sutta Pitaka:** Buddha's sermons and discourses; divided into 5 Nikayas (*Khuddaka Nikaya* contains **Jataka tales**—stories of Buddha's previous births—and *Dhammapada*).
+3. **Abhidhamma Pitaka:** Philosophical and psychological analysis of Buddhist doctrines.
 
-### Q6. Who was the 23rd Tirthankara of Jainism?
 
-Answer: Parshvanatha.
+* **Non-Canonical Texts:** **Milindapanho** (dialogue in Pali between Indo-Greek king Menander and monk **Nagasena**), **Dipavamsa** and **Mahavamsa** (Sri Lankan chronicles), **Buddhacharita** (Sanskrit biography of Buddha by **Ashvaghosha**).
+* **Major Sects:**
+* **Hinayana (Lesser Vehicle):** Orthodox; regards Buddha as a great human teacher, not a god; uses **Pali**; worships symbols; prevalent in Sri Lanka, Myanmar, Thailand.
+* **Mahayana (Greater Vehicle):** Treats Buddha as a deity; worships images/idols; uses **Sanskrit**; introduces **Bodhisattvas** (e.g., *Avalokiteshvara / Padmapani*, *Maitreya* — future Buddha); prevalent in China, Japan, Korea.
+* **Vajrayana (Thunderbolt Vehicle):** Tantric Buddhism; emerged in eastern India (Bengal/Bihar) around 7th–8th century CE; worships female deities like **Tara**.
 
-Explanation: Rishabhanatha was the first, Parshvanatha the 23rd and Mahavira the 24th Tirthankara.
 
-### Q7. Which vow was added by Mahavira to the four vows of Parshvanatha?
 
-Answer: Brahmacharya.
+![Sanchi Stupa in Madhya Pradesh](images/sanchi_stupa_in_madhya_pradesh_cecda8ea57.jpg)
 
-Explanation: Mahavira's five vows included Ahimsa, Satya, Asteya, Aparigraha and Brahmacharya.
+*Fig. 2: Great Stupa, Sanchi. Commissioned by Emperor Ashoka in the 3rd century BCE to enshrine relics of the Buddha; an iconic example of early Buddhist stupa architecture.*
 
-### Q8. Where did Mahavira attain Nirvana?
+---
 
-Answer: Pavapuri, Bihar.
+## 3. Jainism: Tirthankaras, Doctrines & Councils
 
-Explanation: Mahavira attained Nirvana at Pavapuri at the age of 72.
+### The 24 Tirthankaras
 
-### Q9. Which Jain sect is known as the sky-clad sect?
+* **Tirthankara:** Literally "ford-maker"—a spiritual teacher who conquers *Samsara* and shows the path to liberation.
+* **1st Tirthankara:** **Rishabhanatha (Adinatha)** — Symbol: **Bull** (mentioned in the *Rig Veda*).
+* **22nd Tirthankara:** **Neminatha / Arishtanemi** — Symbol: **Conch** (considered a cousin of Lord Krishna).
+* **23rd Tirthankara:** **Parshvanatha** — Prince of Kashi (son of King Ashvasena); attained enlightenment on **Sammed Shikhar (Parasnath Hill, Jharkhand)**; Symbol: **Hooded Serpent**. Preached **Chaturthi** (4 vows: Truth, Non-violence, Non-stealing, Non-possession).
+* **24th Tirthankara:** **Vardhamana Mahavira** — Symbol: **Lion**.
 
-Answer: Digambara.
+### Life of Vardhamana Mahavira
 
-Explanation: Digambara monks traditionally practise nudity, while Shvetambara monks wear white clothes.
+* **Birth:** **540 BCE** (or 599 BCE in traditional chronology) at **Kundagrama** (near Vaishali, Bihar) in the **Jnatrika** Kshatriya clan.
+* **Family:** Father: **Siddhartha**; Mother: **Trishala** (sister of Lichchhavi chief Chetaka); Wife: **Yashoda**; Daughter: **Anojja / Priyadarshana** (married to **Jamali**, Mahavira's first disciple and first rebel).
+* **Renunciation & Kaivalya:** Renounced worldly life at age **30**; attained supreme knowledge (**Kaivalya**) at age **42** under a **Sal tree** at **Jrimbhikagrama** on the banks of river **Rijupalika**.
+* **Titles:** **Jina** (conqueror), **Mahavira** (great hero), **Nirgrantha** (free from all bonds), **Kevalin**.
+* **Death (Nirvana):** At age **72** (**468 BCE**) at **Pavapuri** (near Rajgir, Bihar).
 
-### Q10. What are the three jewels of Jainism?
+![Gommateshwara Bahubali Statue at Shravanabelagola](images/gommateshwara_bahubali_statue_at_shravanabelagola_9c67434301.jpg)
 
-Answer: Samyak Darshana, Samyak Jnana and Samyak Charitra.
+*Fig. 3: Gommateshwara (Bahubali) Monolith, Shravanabelagola. A 57-foot monolithic granite statue built by Ganga minister Chavundaraya in the 10th century CE; site of the Mahamastakabhisheka festival and Chandragupta Maurya's Sallekhana.*
 
-Explanation: They mean Right Faith, Right Knowledge and Right Conduct.
+### Core Jain Doctrines
 
-### Q11. Which Buddhist teaching is known as the Middle Path?
+* **Triratna (Three Jewels of Jainism):**
+1. **Samyak Darshana** (Right Faith)
+2. **Samyak Jnana** (Right Knowledge)
+3. **Samyak Charitra** (Right Conduct)
 
-Answer: Avoiding both extreme luxury and extreme austerity.
 
-Explanation: Buddha advocated a balanced path between the two extremes.
+* **Pancha Mahavratas (Five Great Vows):**
+1. **Ahimsa** (Non-violence)
+2. **Satya** (Truthfulness)
+3. **Asteya** (Non-stealing)
+4. **Aparigraha** (Non-possession of property)
+5. **Brahmacharya** (Celibacy — **added by Mahavira** to Parshvanatha's 4 vows)
 
-### Q12. Who was traditionally associated with the migration of Jain monks to Karnataka?
 
-Answer: Bhadrabahu.
+* **Anekantavada:** Doctrine of manifold nature of reality (truth has many aspects).
+* **Syadvada:** Doctrine of conditioned predication / relative judgment (*"maybe"* — sevenfold logic, *Saptabhangi Naya*).
+* **Sallekhana / Santhara:** Voluntary fasting unto death to purge karma.
 
-Explanation: Bhadrabahu is traditionally associated with Chandragupta Maurya's migration to Shravanabelagola.
+### Jain Councils & Sects
 
-## 7. Additional Practice Questions
+| Council | Period | Place | President | Key Outcome |
+| --- | --- | --- | --- | --- |
+| **First** | c. 300 BCE | **Pataliputra** | **Sthulabhadra** | Compilation of **12 Angas** (replacing 14 Purvas); formal split into **Shvetambaras** and **Digambaras** |
+| **Second** | 512 CE | **Vallabhi** (Gujarat) | **Devardhi Kshamasramana** | Final compilation of **12 Angas** and **12 Upangas** in **Ardhamagadhi Prakrit** |
 
-### Q1. Which of the following places is associated with the Mahaparinirvana of Buddha?
+* **Reason for Schism:** During a 12-year famine in Magadha, **Bhadrabahu** migrated to **Shravanabelagola** (Karnataka) with Chandragupta Maurya, maintaining strict nudity, while **Sthulabhadra** stayed back in Magadha and permitted white garments.
+* **Digambaras (Sky-clad):** Led by **Bhadrabahu**; practice complete nudity (male monks); believe women cannot attain liberation directly without being reborn as men; reject canonical status of surviving Angas.
+* **Shvetambaras (White-clad):** Led by **Sthulabhadra**; wear white clothes; believe women can attain liberation (19th Tirthankara **Mallinatha** is considered female by Shvetambaras, male by Digambaras).
+* **Important Jain Texts:** **Kalpasutra** (biographies of Tirthankaras, written in Sanskrit by **Bhadrabahu**), **Parishishtaparvan** (by **Hemachandra**), **Acharanga Sutra** (monastic rules).
 
-Answer: Kushinagar.
+---
 
-Explanation: Buddha attained Mahaparinirvana at Kushinagar.
+## 4. Important Concepts & Architecture for SSC
 
-### Q2. Who recited the Vinaya Pitaka at the First Buddhist Council?
+* **Buddhist Architectural Forms:**
+* **Stupa:** Hemispherical dome (*Anda*) housing relics of Buddha/monks, topped by *Harmika* and *Chhatri*, surrounded by *Vedika* (railing) and *Toranas* (gateways). Examples: **Sanchi**, **Bharhut**, **Amaravati**, **Dhamek Stupa (Sarnath)**.
+* **Chaitya:** Prayer/assembly hall with a stupa at the apsidal end (e.g., **Karle Chaitya**, **Ajanta Cave 9 & 10**).
+* **Vihara:** Monastic residence for monks (e.g., **Nalanda**, **Vikramashila**, **Ajanta**).
 
-Answer: Upali.
 
-Explanation: Upali recited the monastic rules, while Ananda recited the Buddha's teachings.
+* **Buddhist Universities & Founders:**
+* **Nalanda** (Bihar) — **Kumaragupta I** (Gupta dynasty)
+* **Vikramashila** (Bihar) — **Dharmapala** (Pala dynasty)
+* **Odantapuri** (Bihar) — **Gopala** (Pala dynasty)
+* **Vallabhi** (Gujarat) — **Bhattarka** (Maitraka dynasty; center of Hinayana)
 
-### Q3. Which doctrine states that reality has multiple aspects in Jainism?
 
-Answer: Anekantavada.
+* **Jain Monuments & Patrons:**
+* **Dilwara Temples** (Mount Abu, Rajasthan) — White marble temples built by Solanki ministers (**Vimal Vasahi** by Vimal Shah; **Luna Vasahi** by Vastupala and Tejapala).
+* **Hathigumpha Inscription** (Udayagiri, Odisha) — **Kharavela** (Chedi dynasty, staunch Jain patron).
+* **Khajuraho Jain Temples** (e.g., Parshvanatha Temple) — **Chandela** rulers.
+* **Ellora Caves (Caves 30–34)** — **Rashtrakuta** rulers (e.g., *Indra Sabha*).
 
-Explanation: It states that reality cannot be understood completely from a single viewpoint.
 
-### Q4. Which ruler is associated with the spread of Buddhism to Sri Lanka?
 
-Answer: Ashoka.
+![Ajanta Caves Rock-Cut Architecture](images/ajanta_caves_rock-cut_architecture_2860f88ac2.jpg)
 
-Explanation: Ashoka's son Mahinda and daughter Sanghamitta are traditionally credited with carrying Buddhism to Sri Lanka.
+*Fig. 4: Ajanta Caves, Maharashtra. A complex of 29 rock-cut Buddhist chaityas and viharas dating from the 2nd century BCE to 5th century CE, famous for murals depicting Jataka tales.*
 
-### Q5. Which of the following is NOT one of the Four Noble Truths?
+---
 
-Answer: Anekantavada.
+## 5. Common Exam Traps
 
-Explanation: Anekantavada is a Jain philosophical doctrine, not a Buddhist teaching.
+* **Triratna Confusion:**
+* Buddhist Triratna = **Buddha, Dhamma, Sangha**.
+* Jain Triratna = **Samyak Darshana, Samyak Jnana, Samyak Charitra**.
 
-### Q6. The Jain religious texts are primarily known as:
 
-Answer: Agamas.
+* **Trees & Rivers of Enlightenment:**
+* Buddha = **Peepal (Bodhi) tree**, **Niranjana (Phalgu)** river, **Bodh Gaya**.
+* Mahavira = **Sal tree**, **Rijupalika** river, **Jrimbhikagrama**.
 
-Explanation: Jain canonical scriptures are known as Agamas.
 
-### Q7. Which Buddhist school considers the Bodhisattva ideal important?
+* **5th Vow of Jainism:** Parshvanatha gave **4 vows**; only the 5th vow (**Brahmacharya**) was added by **Mahavira**.
+* **First Woman in Buddhist Sangha:** **Mahaprajapati Gautami** (Buddha's foster mother) was the first *Bhikkhuni*, admitted at **Vaishali** on **Ananda's** persuasion—NOT Yashodhara.
+* **Buddha's Contemporary Rulers:** **Bimbisara** and **Ajatashatru** (Magadha), **Prasenajit** (Kosala), **Udayana** (Vatsa). Ashoka and Kanishka lived centuries later.
 
-Answer: Mahayana.
+---
 
-Explanation: Mahayana emphasises the Bodhisattva path and the liberation of all sentient beings.
+## 6. Last-Minute Revision Table
 
-### Q8. Which place is famous for the Jain Gomateshwara statue?
+| Parameter | Buddhism | Jainism |
+| --- | --- | --- |
+| **Founder / Last Teacher** | Gautama Buddha (Siddhartha) | Rishabhanatha (1st); Vardhamana Mahavira (24th) |
+| **Birth & Death** | 563 BCE (Lumbini) – 483 BCE (Kushinagar) | 540 BCE (Kundagrama) – 468 BCE (Pavapuri) |
+| **Enlightenment Site** | Bodh Gaya (Peepal tree, Niranjana river) | Jrimbhikagrama (Sal tree, Rijupalika river) |
+| **Core Path** | Middle Path (*Majjhima Patipada*) | Extreme Asceticism & Non-violence |
+| **Soul (*Atman*)** | Denied (*Anatta*) | Accepted (*Jiva* in everything) |
+| **Creator God** | Agnostic / Silent | Denied (Jinas > Gods) |
+| **Primary Language** | Pali (later Sanskrit in Mahayana) | Ardhamagadhi / Prakrit (later Sanskrit) |
+| **Canonical Texts** | Tripitaka (Vinaya, Sutta, Abhidhamma) | Agamas (12 Angas, 12 Upangas) |
+| **Major Sects** | Hinayana, Mahayana, Vajrayana | Digambara, Shvetambara |
 
-Answer: Shravanabelagola.
+---
 
-Explanation: The statue represents Bahubali and is located in Karnataka.
+## 7. PYQs / PYQ-Pattern Questions with Solutions
 
-## 8. Common SSC Exam Traps
+**Q1. Where did Gautama Buddha deliver his first sermon, known as Dharmachakrapravartana? (SSC CGL)**
 
-| Confusing Facts                  | Correct Answer      |
-| -------------------------------- | ------------------- |
-| Buddha's birth                   | Lumbini             |
-| Buddha's enlightenment           | Bodh Gaya           |
-| Buddha's first sermon            | Sarnath             |
-| Buddha's death                   | Kushinagar          |
-| Mahavira's birth                 | Kundagrama          |
-| Mahavira's enlightenment         | Near Jrimbhikagrama |
-| Mahavira's death                 | Pavapuri            |
-| First Tirthankara                | Rishabhanatha       |
-| 23rd Tirthankara                 | Parshvanatha        |
-| 24th Tirthankara                 | Mahavira            |
-| Third Buddhist Council           | Ashoka              |
-| Fourth Buddhist Council          | Kanishka            |
-| Buddhist monastic rules          | Vinaya Pitaka       |
-| Buddhist sermons                 | Sutta Pitaka        |
-| Buddhist philosophy              | Abhidhamma Pitaka   |
-| Jain multiple-viewpoint doctrine | Anekantavada        |
-| Jain conditional predication     | Syadvada            |
-| Sky-clad Jain sect               | Digambara           |
-| White-clad Jain sect             | Shvetambara         |
+* **Answer:** **Sarnath (Deer Park / Isipatana)**
+* **Solution:** After attaining enlightenment at Bodh Gaya, Buddha walked to Sarnath near Varanasi and preached his first sermon on the Four Noble Truths to five former ascetic companions.
 
-Important historical caution: Traditional dates for Buddha's and Mahavira's births and deaths vary across historical sources. SSC textbooks commonly use 563–483 BCE for Buddha and 599–527 BCE for Mahavira.
+**Q2. Who was the president of the Fourth Buddhist Council held in Kashmir under the patronage of Kanishka? (SSC CHSL)**
 
-## 9. Last-Minute Revision Table
+* **Answer:** **Vasumitra**
+* **Solution:** The 4th Buddhist Council (1st century CE) at Kundalavana was presided over by **Vasumitra**, with **Ashvaghosha** serving as vice-president.
 
-| Topic                   | Must Remember                                   |
-| ----------------------- | ----------------------------------------------- |
-| Buddha's original name  | Siddhartha                                      |
-| Buddha's clan           | Shakya                                          |
-| Buddha's birthplace     | Lumbini                                         |
-| Enlightenment           | Bodh Gaya                                       |
-| First sermon            | Sarnath                                         |
-| Mahaparinirvana         | Kushinagar                                      |
-| Four Noble Truths       | Dukkha, Samudaya, Nirodha, Magga                |
-| Eightfold Path          | Ashtangika Marga                                |
-| Three Buddhist jewels   | Buddha, Dhamma, Sangha                          |
-| Buddhist scriptures     | Tripitaka                                       |
-| First Buddhist Council  | Rajagriha                                       |
-| Third Buddhist Council  | Ashoka                                          |
-| Fourth Buddhist Council | Kanishka                                        |
-| First Tirthankara       | Rishabhanatha                                   |
-| 23rd Tirthankara        | Parshvanatha                                    |
-| 24th Tirthankara        | Mahavira                                        |
-| Mahavira's birthplace   | Kundagrama                                      |
-| Mahavira's Nirvana      | Pavapuri                                        |
-| Jain three jewels       | Right Faith, Knowledge, Conduct                 |
-| Jain five vows          | Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha |
-| Jain scriptures         | Agamas                                          |
-| Jain sects              | Digambara, Shvetambara                          |
-| Multiple viewpoints     | Anekantavada                                    |
-| Conditional predication | Syadvada                                        |
+**Q3. Which of the five great vows (Pancha Mahavratas) of Jainism was added by Vardhamana Mahavira? (SSC CPO)**
+
+* **Answer:** **Brahmacharya (Celibacy)**
+* **Solution:** The 23rd Tirthankara, Parshvanatha, prescribed four vows (*Ahimsa, Satya, Asteya, Aparigraha*). Mahavira added the fifth vow, *Brahmacharya*.
+
+**Q4. The 'Jataka' tales are associated with which religion and form part of which Pitaka? (SSC CGL)**
+
+* **Answer:** **Buddhism; Khuddaka Nikaya of Sutta Pitaka**
+* **Solution:** Jatakas contain over 500 stories describing the previous births of Gautama Buddha in human and animal forms.
+
+**Q5. Who authored the 'Kalpasutra', a sacred Jain text containing biographies of the Tirthankaras? (SSC CGL)**
+
+* **Answer:** **Bhadrabahu**
+* **Solution:** Bhadrabahu, the spiritual preceptor of Chandragupta Maurya and leader of the Digambara tradition, composed the *Kalpasutra* in Sanskrit.
+
+**Q6. Which Buddhist text records the philosophical dialogue between Indo-Greek ruler Menander and Buddhist monk Nagasena? (SSC MTS)**
+
+* **Answer:** **Milindapanho (Questions of Milinda)**
+* **Solution:** Written in Pali, *Milindapanho* captures King Menander's questions on Buddhist metaphysics answered by Nagasena, leading to Menander's conversion.
+
+**Q7. At which place did Chandragupta Maurya spend his last days and perform Sallekhana? (SSC CHSL)**
+
+* **Answer:** **Shravanabelagola (Karnataka)**
+* **Solution:** Chandragupta Maurya abdicated his throne, accompanied Jain saint Bhadrabahu to Shravanabelagola during the Magadhan famine, and ended his life through *Sallekhana*.
+
+**Q8. What was the symbol associated with the first Jain Tirthankara, Rishabhanatha? (SSC CGL)**
+
+* **Answer:** **Bull**
+* **Solution:** Each of the 24 Tirthankaras has a distinct emblem (*Lanchhana*): Rishabhanatha (Bull), Parshvanatha (Serpent), and Mahavira (Lion).
+
+**Q9. In Buddhism, what does the 'Chaitya' refer to? (SSC CPO)**
+
+* **Answer:** **A prayer or worship hall containing a stupa**
+* **Solution:** While *Viharas* served as living quarters for monks, *Chaityas* were rock-cut or structural prayer halls housing a stupa at the far end.
+
+**Q10. Who was the first woman to be ordained as a Bhikkhuni in the Buddhist Sangha? (SSC CGL)**
+
+* **Answer:** **Mahaprajapati Gautami**
+* **Solution:** At Vaishali, Buddha reluctantly agreed—upon the intercession of his chief disciple Ananda—to admit his foster mother Mahaprajapati Gautami into the monastic order.
+
+---
+
+## 8. Practice Questions
+
+**Q1. Which of the following pairs of Buddhist Council and its presiding monk is INCORRECTLY matched?**
+(A) First Council — Mahakassapa
+(B) Second Council — Sabakami
+(C) Third Council — Moggaliputta Tissa
+(D) Fourth Council — Upali
+
+* **Answer:** **(D) Fourth Council — Upali** (The Fourth Council was presided over by Vasumitra; Upali recited the Vinaya Pitaka at the First Council.)
+
+**Q2. Under which tree and beside which river did Vardhamana Mahavira attain Kaivalya?**
+(A) Peepal tree; Niranjana river
+(B) Sal tree; Rijupalika river
+(C) Banyan tree; Gandak river
+(D) Sal tree; Punpun river
+
+* **Answer:** **(B) Sal tree; Rijupalika river**
+
+**Q3. The philosophical doctrine of 'Syadvada' (theory of conditioned predication) belongs to:**
+(A) Hinayana Buddhism
+(B) Jainism
+(C) Ajivika sect
+(D) Vajrayana Buddhism
+
+* **Answer:** **(B) Jainism**
+
+**Q4. Which ruler of the Pala dynasty founded the famous Buddhist monastery and university at Vikramashila?**
+(A) Gopala
+(B) Dharmapala
+(C) Devapala
+(D) Mahipala I
+
+* **Answer:** **(B) Dharmapala**
+
+**Q5. Which of the following statements about Shvetambara and Digambara sects is true?**
+(A) Digambaras believe the 19th Tirthankara Mallinatha was a woman.
+(B) Shvetambaras were led by Bhadrabahu during the Magadhan famine.
+(C) Digambaras believe women cannot attain liberation without being reborn as men.
+(D) Both sects accept the 12 Angas compiled at Vallabhi as authoritative.
+
+* **Answer:** **(C) Digambaras believe women cannot attain liberation without being reborn as men.**
+
+**Q6. In early Buddhist art, the event of 'Mahabhinishkramana' is represented by which symbol?**
+(A) Wheel
+(B) Lotus
+(C) Horse
+(D) Bodhi Tree
+
+* **Answer:** **(C) Horse**
+
+**Q7. Who presided over the Second Jain Council held at Vallabhi in 512 CE?**
+(A) Sthulabhadra
+(B) Devardhi Kshamasramana
+(C) Hemachandra
+(D) Haribhadra
+
+* **Answer:** **(B) Devardhi Kshamasramana**

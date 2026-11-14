@@ -218,14 +218,11 @@ def run(note: Path, engine: str, open_browser: bool):
         print("No IMG_QUERY placeholders found. Nothing to do.")
         return
 
-    backup = note.with_name(note.name + ".bak")
-    if not backup.exists():
-        shutil.copyfile(note, backup)
 
     folder = note.parent / "images"
     folder.mkdir(exist_ok=True)
 
-    print(f"{len(todo)} placeholder(s) in {note.name}. Backup: {backup.name}")
+    print(f"{len(todo)} placeholder(s) in {note.name}")
     print("Paste an image link or file path. Enter = skip, s = search again, q = quit.\n")
 
     mapping, done, skipped = {}, 0, 0
