@@ -54,7 +54,7 @@ Rules:
 
 ## 4. Image Integration (VERY IMPORTANT)
 
-Add relevant educational images wherever they genuinely improve understanding, visual memory, or revision.
+Add relevant educational images wherever they genuinely improve understanding, visual memory, or revision. Every image must come with a visible written caption (see Section 4D).
 
 ### A. When to include images
 - History: archaeological sites, monuments, sculptures, seals, rulers, inscriptions, historical maps.
@@ -101,16 +101,48 @@ Rules for both formats:
 - No image links inside code blocks.
 - No extra text or formatting inside the parentheses.
 - For placeholders, write 3–8 specific search words naming the exact subject, site or diagram (not generic terms like "map" or "ancient").
+- My downloader only rewrites the image line itself, so the caption from Section 4D must always sit on its own separate line below the image line, never inside the brackets or parentheses.
 
-### D. Placement
-- Place each image immediately after the concept it illustrates.
-- Use the title as a short caption.
-- Do not collect images at the end.
+### D. Captions (VERY IMPORTANT)
+The title inside `![ ]` is only hidden alt text and is not shown beside the image once it is rendered. So every image line, in both Format 1 and Format 2, must be followed by a visible caption.
+
+Caption layout:
+- Put **one blank line** after the image line, then the caption as a **single italic paragraph** on its own line:
+
+```
+![Great Bath at Mohenjo-daro](IMG_QUERY: Great Bath Mohenjo-daro archaeological site)
+
+*Fig. 3: Great Bath, Mohenjo-daro. A large brick-lined tank made watertight with bitumen, probably used for ritual bathing; the best-known public structure of the Harappan civilization.*
+```
+
+- Start with `*Fig. N: <Short title>.` and number figures in order through the notes (Fig. 1, Fig. 2, ...).
+- Follow the title with **1–2 sentences (about 20–45 words)** that cover:
+  1. what the image shows (the subject, not its appearance);
+  2. why it matters for SSC (key fact such as place, date, person, feature, or the exam-relevant point).
+- Close the italics with `*` at the end of the same line.
+
+Caption content rules:
+- The caption must agree with the notes text beside it and must contain only facts that are verified and already part of the notes.
+- For placeholder images (Format 2), the picture is chosen later, so describe the **subject and its exam significance** only. Do NOT describe colours, positions, number of objects, text visible in the picture, or any detail that depends on which exact photo is used.
+- For maps and diagrams, say what the reader should look for (for example, "note the location of ... relative to ...") only if that is true of any good map of that subject.
+- No links, no URLs, no `|`, no square brackets, no HTML, no nested images, and no `IMG_QUERY` text inside a caption.
+- Do not repeat the same sentence as the surrounding bullet; add the exam-relevant point instead.
+- Never put an image or caption inside a table or a code block.
+
+### E. Placement
+- Place each image immediately after the concept it illustrates, with its caption directly below it.
+- Nothing may come between an image line and its caption except the single blank line.
+- Do not collect images or captions at the end.
 - Do not interrupt mathematical derivations or question solutions with unrelated images.
 - Do not repeat the same image.
 
-### E. Image quality check
-Before finalising, confirm that every image line is either a verified direct URL (Format 1) or a placeholder (Format 2); that no URL is invented; that each image is relevant to the text beside it; and that there are no duplicates.
+### F. Image quality check
+Before finalising, confirm that:
+- every image line is either a verified direct URL (Format 1) or a placeholder (Format 2);
+- no URL is invented;
+- each image is relevant to the text beside it;
+- there are no duplicates;
+- **every image has a caption directly below it, in the layout of Section 4D, with correct figure numbering and no unverified visual details.**
 
 ## 5. PYQ Section
 Include approximately 8–15 important PYQ or PYQ-pattern questions depending on the topic.
@@ -131,15 +163,16 @@ Include 5–10 additional SSC-level questions (easy, moderate, difficult mix).
 - Clear headings and subheadings; bullets over long paragraphs.
 - Tables for comparisons, formulas, and classifications.
 - Bold important terms and facts.
+- Every image has a visible italic caption directly below it (Section 4D).
 - Concise and revision-friendly; no unnecessary introduction or conclusion.
 - Avoid excessive emojis or decoration.
 - Easy to convert into A4 PDF.
 
 ## 8. Quality Check Before Output
-Verify: formulas and calculations are correct; no important SSC concepts omitted; LaTeX is valid; tables do not break; answers sit under their questions; no fabricated PYQ references; images follow Section 4 exactly.
+Verify: formulas and calculations are correct; no important SSC concepts omitted; LaTeX is valid; tables do not break; answers sit under their questions; no fabricated PYQ references; images follow Section 4 exactly, including a caption under every image.
 
 ## 9. Output Requirement
 Return ONLY the completed Markdown notes. No explanations of how they were generated.
 
 Topic / Source Material:
-[PASTE TOPIC HERE]
+<>
