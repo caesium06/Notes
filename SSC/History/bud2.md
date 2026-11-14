@@ -1,0 +1,454 @@
+# Buddhism and Jainism: SSC Notes
+
+---
+
+## 1. Background: Why These Religions Arose (6th Century BCE)
+
+- **Sramana movement:** a wave of ascetic, anti-ritual reform movements in the Gangetic plains (Magadha, Kosala, Vajji).
+- **Causes of rise:**
+  - Expensive Vedic rituals and animal sacrifices
+  - Brahmin dominance and the rigid varna system
+  - Kshatriya resentment of Brahmin supremacy (both founders were Kshatriyas)
+  - Rise of trade, towns, coinage and iron use, which gave **Vaishyas** (merchants) money but low ritual status
+  - Preaching in the common language (**Pali / Ardhamagadhi Prakrit**) instead of Sanskrit
+- **Other contemporary Sramana schools:**
+
+| School | Founder / Leader | Core Idea |
+|---|---|---|
+| Ajivika | Makkhali Gosala | Niyativada (fatalism, destiny controls all) |
+| Charvaka / Lokayata | Brihaspati (traditional) | Materialism; only perception is valid |
+| Materialist | Ajita Kesakambali | No afterlife |
+| Agnostic | Sanjaya Belatthiputta | Suspension of judgement |
+
+---
+
+# PART A: BUDDHISM
+
+## 2. Life of Gautama Buddha (Core Facts)
+
+| Item | Fact |
+|---|---|
+| Birth name | **Siddhartha** (Gautama; Shakyamuni) |
+| Date | c. **563 BCE** to **483 BCE** (conventional SSC dates; some scholars say c. 480 to 400 BCE) |
+| Birthplace | **Lumbini** (Nepal Terai), marked by Ashoka's **Rummindei pillar** |
+| Clan / Republic | **Shakya** clan, Kapilavastu |
+| Father / Mother | **Suddhodana** / **Mahamaya** (mother died 7 days after birth; raised by **Mahaprajapati Gautami**) |
+| Wife / Son | **Yashodhara** / **Rahula** |
+| Great Renunciation (Mahabhinishkramana) | Age **29**, after the **Four Sights** (old man, sick man, dead body, ascetic) |
+| Charioteer / Horse | **Channa** / **Kanthaka** |
+| Teachers | **Alara Kalama**, **Uddaka Ramaputta** |
+| Enlightenment (Nirvana / Bodhi) | Age **35**, **Bodh Gaya** (Uruvela), under a **Pipal** tree, on the Niranjana (Phalgu) river |
+| First Sermon (**Dharmachakra Pravartana**) | **Sarnath** (Isipatana, Deer Park), to **five disciples** (Kaundinya and others) |
+| Death (**Mahaparinirvana**) | Age **80**, **Kushinagar** (Kusinara), after a meal at **Chunda** the blacksmith's house |
+| Last disciple | **Subhadda** |
+| Favourite disciple | **Ananda** |
+| Chief disciples | **Sariputta** and **Moggallana** |
+| Rival cousin | **Devadatta** |
+| Contemporary kings | **Bimbisara**, **Ajatashatru** (Magadha); **Prasenajit** (Kosala) |
+| First Bhikkhuni (nun) | **Mahaprajapati Gautami** (admitted with Ananda's persuasion) |
+
+![Mahabodhi Temple at Bodh Gaya](images/mahabodhi_temple_at_bodh_gaya_c49d53de62.jpg)
+
+*Fig. 1: Mahabodhi Temple, Bodh Gaya. Marks the site where Siddhartha attained enlightenment under the Bodhi tree; a UNESCO World Heritage Site (2002) and one of the four holy places of Buddhism.*
+
+![Dhamek Stupa at Sarnath](images/dhamek_stupa_at_sarnath_99048fc974.jpg)
+
+*Fig. 2: Dhamek Stupa, Sarnath. Marks the Deer Park (Isipatana) where the Buddha delivered his first sermon, Dharmachakra Pravartana, to five disciples; a key SSC pilgrimage site.*
+
+### The Four Holy Places and Events (Mnemonic: **L-B-S-K**)
+
+| Place | Event | Symbol |
+|---|---|---|
+| **L**umbini | Birth | Lotus / Bull |
+| **B**odh Gaya | Enlightenment | Bodhi tree |
+| **S**arnath | First sermon | Wheel (Dharmachakra) |
+| **K**ushinagar | Mahaparinirvana (death) | Stupa |
+
+- Great Renunciation is symbolised by the **horse**.
+- **Ashtamahasthana** (eight great places) additionally include **Sravasti, Sankasya, Rajgir, Vaishali**.
+- Sravasti (Jetavana monastery, built by **Anathapindika**) is where the Buddha spent many rainy-season retreats.
+
+## 3. Core Teachings
+
+### Four Noble Truths (Arya Satyani)
+
+1. **Dukkha:** life is full of suffering.
+2. **Dukkha Samudaya:** the cause of suffering is **trishna** (desire).
+3. **Dukkha Nirodha:** suffering can be ended (**Nirvana**).
+4. **Dukkha Nirodha Gamini Pratipada:** the path is the **Eightfold Path**.
+
+### Noble Eightfold Path (Ashtangika Marga) = Madhyama Pratipada (Middle Path)
+
+| Division | Components |
+|---|---|
+| **Prajna** (wisdom) | Right View, Right Intention (Resolve) |
+| **Sila** (ethics) | Right Speech, Right Action, Right Livelihood |
+| **Samadhi** (mental discipline) | Right Effort, Right Mindfulness, Right Concentration |
+
+### Other Key Doctrines
+
+- **Three Marks of Existence:** Anicca (impermanence), Dukkha (suffering), **Anatta** (no permanent soul).
+- **Pratityasamutpada** (Dependent Origination): chain of **12 Nidanas**, beginning with Avidya (ignorance) and ending with Jara-Marana (old age and death).
+- **Kshanikavada:** everything is momentary.
+- **Karma and rebirth** are accepted, but **no eternal soul** (anatta) is accepted.
+- **Nirvana:** extinction of desire and the end of the rebirth cycle.
+- The Buddha was silent on **God and metaphysical questions** (avyakata); Buddhism is non-theistic.
+- **Five Precepts (Panchsheel):** no killing, no stealing, no falsehood, no intoxicants, no sexual misconduct.
+- **Tri-Ratna:** **Buddha, Dhamma, Sangha**.
+- **Sangha:** open to all castes; monks (**Bhikkhu**) and nuns (**Bhikkhuni**); lay followers (**Upasaka / Upasika**).
+
+## 4. Four Buddhist Councils (High-Yield)
+
+| Council | Date | Place | Patron | President | Key Outcome |
+|---|---|---|---|---|---|
+| **1st** | c. 483 BCE | **Rajagriha** (Sattapanni cave) | **Ajatashatru** | **Mahakassapa** | **Vinaya** (by **Upali**) and **Sutta** (by **Ananda**) recited |
+| **2nd** | c. 383 BCE | **Vaishali** | **Kalashoka** (Shishunaga) | **Sabakami** | Split into **Sthaviravadins** and **Mahasanghikas** over Vinaya rules |
+| **3rd** | c. 250 BCE | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Abhidhamma Pitaka** compiled; heretics expelled; missionaries sent abroad |
+| **4th** | c. 1st century CE | **Kundalvana, Kashmir** | **Kanishka** | **Vasumitra** (Vice-president: **Ashvaghosha**) | Split into **Hinayana** and **Mahayana**; Sanskrit adopted |
+
+## 5. Buddhist Sects
+
+| Feature | Hinayana (Theravada) | Mahayana | Vajrayana |
+|---|---|---|---|
+| Meaning | "Lesser Vehicle" | "Greater Vehicle" | "Thunderbolt Vehicle" |
+| Ideal | **Arhat** (self-liberation) | **Bodhisattva** (liberation of all) | Tantric practices, mantras, mudras |
+| Buddha | Teacher; no idols originally | Divine; **idol worship** | Many Dhyani Buddhas, Taras |
+| Language | **Pali** | **Sanskrit** | Sanskrit / Tibetan |
+| Patron | Ashoka | **Kanishka** | **Palas** (Bengal / Bihar) |
+| Spread | Sri Lanka, Myanmar, Thailand | China, Japan, Korea, Tibet | Tibet, Nepal, Bhutan |
+| Key text / school | Vaibhashika, Sautrantika | Prajnaparamita, Lotus Sutra (**Saddharmapundarika**) | Tantras |
+
+- **Mahayana philosophers:**
+  - **Nagarjuna:** Madhyamika school, **Shunyavada**, *Madhyamika Karika*
+  - **Asanga and Vasubandhu:** Yogachara / Vijnanavada
+  - **Dignaga, Dharmakirti:** Buddhist logic
+- **Bodhisattvas:** Avalokiteshvara (Padmapani), Manjushri, Maitreya (future Buddha), Vajrapani.
+- **Padmasambhava** took Vajrayana to **Tibet**.
+
+## 6. Buddhist Literature
+
+| Text | Details |
+|---|---|
+| **Tripitaka** (Pali Canon) | **Vinaya Pitaka** (monastic rules), **Sutta Pitaka** (Buddha's sermons), **Abhidhamma Pitaka** (philosophy) |
+| Sutta Pitaka divisions | **5 Nikayas:** Digha, Majjhima, Samyutta, Anguttara, **Khuddaka** |
+| Khuddaka Nikaya | Includes **Dhammapada**, **Jataka**, Sutta Nipata, Theragatha, Therigatha |
+| **Jataka Tales** | ~547 stories of Buddha's previous births |
+| **Milindapanho** | Dialogue of **Nagasena** and Indo-Greek king **Menander (Milinda)** |
+| **Buddhacharita** | Life of Buddha, by **Ashvaghosha** (Kanishka's court); also *Saundarananda* |
+| **Dipavamsa, Mahavamsa** | Sri Lankan Pali chronicles |
+
+## 7. Buddhist Art, Architecture and Universities
+
+- **Stupa:** dome-shaped relic mound. **Chaitya:** prayer hall. **Vihara:** monastery.
+- **Early Buddhist art is aniconic:** the Buddha was shown through symbols (wheel, footprints, Bodhi tree, stupa).
+- **Mudras:** Bhumisparsha (enlightenment), Dharmachakra (teaching), Abhaya (fearlessness), Dhyana (meditation), Varada (charity).
+
+| Monument | Location | Key Exam Fact |
+|---|---|---|
+| **Sanchi Stupa** | Madhya Pradesh | Ashokan origin; enlarged by Sungas; **toranas** in the Satavahana period; UNESCO (1989) |
+| **Bharhut Stupa** | Madhya Pradesh | **Sunga** period; Jataka scenes in relief |
+| **Amaravati Stupa** | Andhra Pradesh | **Satavahana** period; Amaravati school |
+| **Ajanta Caves** | Maharashtra | Rock-cut viharas and chaityas; **Jataka paintings**; UNESCO (1983) |
+| **Ellora Caves** | Maharashtra | 34 caves: **12 Buddhist, 17 Hindu, 5 Jain** |
+| **Karle, Bhaja, Kanheri** | Maharashtra | Rock-cut chaityas (Karle is the largest) |
+
+![Lion Capital of Ashoka at Sarnath](images/lion_capital_of_ashoka_at_sarnath_99ededd063.jpg)
+
+*Fig. 3: Lion Capital of Ashoka, Sarnath. A Mauryan pillar capital at the Sarnath site of the first sermon; adopted as India's State Emblem in 1950, and its Dharmachakra appears on the national flag with 24 spokes.*
+
+![Great Stupa at Sanchi](images/great_stupa_at_sanchi_cecda8ea57.jpg)
+
+*Fig. 4: Great Stupa, Sanchi. Built originally under Ashoka and later enlarged; its gateways (toranas) are a major example of early Buddhist art; UNESCO World Heritage Site.*
+
+![Ajanta Caves rock-cut Buddhist monuments](images/ajanta_caves_rock-cut_buddhist_monuments_efe84363fe.jpg)
+
+*Fig. 5: Ajanta Caves, Maharashtra. A UNESCO site of rock-cut Buddhist chaityas and viharas, famous for paintings illustrating Jataka stories.*
+
+- **Schools of sculpture:** **Gandhara** (Greco-Buddhist; Kushan; Buddha images), **Mathura** (indigenous; Kushan), **Amaravati** (Satavahana), **Sarnath** (Gupta).
+- **Buddhist universities:**
+
+| University | Founder / Patron |
+|---|---|
+| **Nalanda** | **Kumaragupta I** (Gupta); UNESCO (2016) |
+| **Vikramshila** | **Dharmapala** (Pala) |
+| **Odantapuri** | **Gopala** (Pala) |
+| **Taxila, Valabhi** | Ancient centres of learning |
+
+## 8. Ashoka and Spread of Buddhism
+
+- **Kalinga War (261 BCE)** led Ashoka to adopt Buddhism and the policy of **Dhamma**.
+- Sent **Mahendra and Sanghamitra** to **Sri Lanka** (King **Devanampiya Tissa**).
+- Edicts in **Prakrit (Brahmi)**; **Lumbini pillar** records his visit.
+- **Kanishka** promoted Mahayana and the Gandhara art.
+- **Chinese pilgrims:** **Fa-Hien** (Chandragupta II), **Hiuen Tsang** (Harsha, studied at Nalanda), **I-Tsing**.
+- **Decline in India:** revival of Brahmanism and Bhakti, Sanskrit shift, sectarian splits, monastic corruption, Hun and Turkish invasions (Nalanda destroyed c. 1193 by **Bakhtiyar Khilji**).
+
+---
+
+# PART B: JAINISM
+
+## 9. Tirthankaras and Life of Mahavira
+
+- Jainism has **24 Tirthankaras** (ford-makers); the **1st** is **Rishabhanatha (Adinath)** and the **24th** is **Mahavira**.
+- **Parshvanatha** (23rd): born in Varanasi, taught the **four vows (Chaturyama)**: Ahimsa, Satya, Asteya, Aparigraha.
+- **Neminatha** (22nd): cousin of Krishna.
+
+| Tirthankara | Symbol |
+|---|---|
+| Rishabhanatha (1st) | **Bull** |
+| Ajitanatha (2nd) | Elephant |
+| Mallinatha (19th) | Kalasha (pitcher) |
+| Munisuvrata (20th) | Tortoise |
+| Neminatha (22nd) | **Conch** |
+| Parshvanatha (23rd) | **Snake** |
+| Mahavira (24th) | **Lion** |
+
+| Mahavira (Vardhamana) | Fact |
+|---|---|
+| Date | c. **540 BCE** to **468 BCE** (SSC standard); Jain tradition says 599 to 527 BCE |
+| Birthplace | **Kundagrama**, near **Vaishali** (Bihar) |
+| Clan | **Jnatrika** (Vajji confederacy) |
+| Father / Mother | **Siddhartha** / **Trishala** (sister of Lichchhavi chief **Chetaka**) |
+| Wife / Daughter | **Yashoda** / **Priyadarshana** |
+| Renunciation | Age **30** |
+| Penance | **12 years** |
+| Kevala Jnana (omniscience) | Age **42**, **Jrimbhikagrama**, bank of **Rijupalika** river, under a **Sal** tree |
+| Titles | **Jina** (conqueror), **Nirgrantha** (free from bonds), **Mahavira** |
+| Death (Nirvana) | Age **72**, **Pavapuri** (near Rajgir, Bihar) |
+| Patrons | Bimbisara, Ajatashatru, Chetaka |
+| Disciple turned rival | **Makkhali Gosala** (founded Ajivikas) |
+
+## 10. Core Teachings
+
+- **Three Jewels (Triratna):** **Samyak Darshan** (Right Faith), **Samyak Jnana** (Right Knowledge), **Samyak Charitra** (Right Conduct).
+- **Five Mahavratas** (monks): **Ahimsa, Satya, Asteya, Aparigraha** (from Parshvanatha) + **Brahmacharya** (added by **Mahavira**). Lay followers practise the lighter **Anuvratas**.
+- **Soul (Jiva)** exists in all beings, including plants, water and stones (**animism**); Jainism has the strictest Ahimsa.
+- **Karma** is material; it binds the soul and must be shed through asceticism for **Moksha**.
+- **Nine Tattvas:** Jiva, Ajiva, Asrava, Bandha, Samvara, Nirjara, Moksha (+ Punya, Papa).
+- **Anekantavada:** truth is many-sided.
+- **Syadvada** (theory of "may be"): **Saptabhangi** (seven-fold predication); **Nayavada** (partial viewpoints).
+- **Five types of knowledge:** Mati, Shruta, Avadhi, Manahparyaya, **Kevala** (perfect knowledge).
+- Rejects the authority of the **Vedas** and a creator God.
+- **Sallekhana / Santhara:** ritual fasting unto death.
+
+## 11. Jain Councils and Sects
+
+| Council | Date | Place | Leader | Outcome |
+|---|---|---|---|---|
+| **1st** | c. 300 BCE | **Pataliputra** | **Sthulabhadra** | **12 Angas** compiled; 14 Purvas lost |
+| **2nd** | 512 CE | **Valabhi** (Gujarat) | **Devardhi Kshamashramana** | Final written compilation of Agamas |
+
+- **Cause of the split:** a 12-year famine in Magadha. **Bhadrabahu** migrated south with **Chandragupta Maurya** (Shravanabelagola, Karnataka); **Sthulabhadra** stayed in Magadha.
+
+| Feature | **Digambara** | **Shvetambara** |
+|---|---|---|
+| Founder | **Bhadrabahu** | **Sthulabhadra** |
+| Dress | Naked ("sky-clad") | White-clad |
+| Women | Cannot attain moksha directly | Can |
+| Agamas | Considered lost | Accepted |
+| Region | South India | Gujarat, Rajasthan |
+| Mahavira | Unmarried | Married |
+| 19th Tirthankara | Mallinatha (male) | Mallinatha (female) |
+
+## 12. Jain Literature
+
+- **Agamas (Siddhanta):** composed in **Ardhamagadhi Prakrit**; 12 Angas, Upangas, Mula Sutras, Chheda Sutras. Includes **Acharanga Sutra** and **Bhagavati Sutra**.
+- **Kalpasutra** (Bhadrabahu): lives of Tirthankaras.
+- **Tattvartha Sutra** (**Umasvati**): accepted by both sects.
+- **Samayasara** (**Kundakunda**): Digambara.
+- **Hemachandra** (court of **Kumarapala**, Chalukya): *Trishashtishalakapurusha-charita*, *Yogashastra*.
+- Jain writers also used **Sanskrit, Apabhramsha and Kannada** (**Pampa**).
+
+## 13. Jain Patrons, Art and Pilgrimage
+
+| Site / Patron | Fact |
+|---|---|
+| **Chandragupta Maurya** | Jain tradition: abdicated, became a monk, fasted to death at **Shravanabelagola** |
+| **Kharavela** (Kalinga) | **Hathigumpha inscription**; Udayagiri-Khandagiri caves (Odisha) |
+| **Gomateshwara / Bahubali** | **Shravanabelagola**, c. **981 CE**, by **Chamundaraya** (Ganga minister); **Mahamastakabhisheka** every 12 years |
+| **Dilwara Temples** | **Mount Abu**, Rajasthan; white marble; Solanki period (Vimal Shah, Tejpal) |
+| **Ranakpur** | Rajasthan; Chaumukha Adinath temple |
+| **Palitana / Shatrunjaya** | Gujarat; major temple city |
+| **Parasnath / Sammed Shikhar** | Jharkhand; **20 Tirthankaras** attained moksha here |
+| **Girnar** | Gujarat; associated with **Neminatha** |
+| **Pavapuri** | Mahavira's nirvana site |
+| **Ellora** | 5 Jain caves |
+| **Rashtrakutas, Gangas, Hoysalas** | Patrons in the south |
+
+![Gomateshwara statue at Shravanabelagola](images/gomateshwara_statue_at_shravanabelagola_9c67434301.jpg)
+
+*Fig. 6: Gomateshwara (Bahubali) statue, Shravanabelagola. A monolithic Jain statue built c. 981 CE by Chamundaraya, minister of the Ganga dynasty; site of the Mahamastakabhisheka held every 12 years.*
+
+![Dilwara Jain Temples at Mount Abu](images/dilwara_jain_temples_at_mount_abu_95498777c8.jpg)
+
+*Fig. 7: Dilwara Temples, Mount Abu. A cluster of Jain temples in Rajasthan, famous for marble carving and built during the Solanki period; a frequent SSC art-and-architecture question.*
+
+## 14. Why Jainism Declined in North India
+
+- Extremely strict rules, especially around **Ahimsa**, made it unsuitable for farmers.
+- Mostly **trader** support, with limited royal patronage after the Mauryas.
+- Revival of Hinduism and the Bhakti movement.
+- It survived mainly in **Gujarat, Rajasthan, Karnataka, Maharashtra**.
+
+---
+
+# PART C: COMPARISON AND SHORTCUTS
+
+## 15. Buddhism vs Jainism
+
+| Feature | Buddhism | Jainism |
+|---|---|---|
+| Founder / Reformer | **Gautama Buddha** (founder) | **Mahavira** (24th Tirthankara; reformer) |
+| Clan | **Shakya** | **Jnatrika** |
+| Birthplace | **Lumbini** | **Kundagrama (Vaishali)** |
+| Enlightenment | Bodh Gaya (Pipal) | Jrimbhikagrama (Sal) |
+| Death place | **Kushinagar** | **Pavapuri** |
+| Age at death | 80 | 72 |
+| Language | Pali | **Ardhamagadhi Prakrit** |
+| Soul | **Anatta** (no soul) | **Jiva** (soul in every being) |
+| Path | **Middle Path** (Eightfold) | **Extreme asceticism**; Triratna |
+| Goal | **Nirvana** | **Moksha / Kevala** |
+| Ahimsa | Moderate | **Extreme** |
+| Philosophy | Anatta, Kshanikavada | **Anekantavada, Syadvada** |
+| Women | Admitted into Sangha | Admitted (nuns) |
+| Splits | Hinayana / Mahayana | Digambara / Shvetambara |
+
+**Common ground:** Kshatriya founders, Magadha region, anti-Vedic ritualism, rejection of caste hierarchy, belief in karma and rebirth, popular language.
+
+## 16. Shortcuts and Mnemonics
+
+- **Buddha's life events:** L-B-S-K (Lumbini, Bodh Gaya, Sarnath, Kushinagar).
+- **Buddhist councils, Rajagriha, Vaishali, Pataliputra, Kashmir:** "**R**ajesh **V**isits **P**ataliputra, **K**ashmir."
+- **Age:** Buddha renounced at **29** and was enlightened at **35**; Mahavira renounced at **30** and attained Kevala at **42**.
+- **Patron match:** 1st council = Ajatashatru; 2nd = Kalashoka; 3rd = Ashoka; 4th = Kanishka.
+- **Jain split:** Digambara = **Bhadrabahu** (south); Shvetambara = **Sthulabhadra** (north).
+- **Triratna confusion:** Buddhist = Buddha, Dhamma, Sangha; Jain = Right Faith, Knowledge, Conduct.
+
+---
+
+# PART D: QUESTIONS
+
+## 17. PYQ-Pattern Questions with Solutions
+
+**Q1. Where did Gautama Buddha deliver his first sermon?**
+(a) Bodh Gaya (b) Sarnath (c) Kushinagar (d) Lumbini
+**Answer: (b) Sarnath.** The Dharmachakra Pravartana took place in the Deer Park (Isipatana) to five disciples.
+
+**Q2. The Third Buddhist Council was held at Pataliputra under which ruler?**
+(a) Bimbisara (b) Ajatashatru (c) Ashoka (d) Kanishka
+**Answer: (c) Ashoka.** The president was Moggaliputta Tissa, and the Abhidhamma Pitaka was compiled.
+
+**Q3. The split of Buddhism into Hinayana and Mahayana occurred at which council?**
+**Answer: Fourth council (Kundalvana, Kashmir, under Kanishka).**
+
+**Q4. Who was the 23rd Tirthankara of Jainism?**
+(a) Rishabhanatha (b) Neminatha (c) Parshvanatha (d) Mahavira
+**Answer: (c) Parshvanatha.** His symbol is the snake.
+
+**Q5. The Hathigumpha inscription is associated with which ruler?**
+**Answer: Kharavela of Kalinga**, located at Udayagiri (Odisha), and it has Jain associations.
+
+**Q6. Which of the following is NOT a part of the Noble Eightfold Path?**
+(a) Right Livelihood (b) Right Knowledge (c) Right Mindfulness (d) Right Effort
+**Answer: (b) Right Knowledge.** The Eightfold Path has Right View, not Right Knowledge, which belongs to the Jain Triratna.
+
+**Q7. Anekantavada is a doctrine of which religion?**
+**Answer: Jainism.** It teaches that truth is many-sided, expressed through Syadvada.
+
+**Q8. Who composed the Buddhacharita?**
+**Answer: Ashvaghosha**, who was in Kanishka's court (vice-president of the Fourth Council).
+
+**Q9. The Gomateshwara statue at Shravanabelagola was built under the patronage of:**
+**Answer: Chamundaraya**, minister of the Ganga dynasty (c. 981 CE).
+
+**Q10. Which Mauryan emperor is traditionally associated with Bhadrabahu and Jainism?**
+**Answer: Chandragupta Maurya.** He is said to have migrated south and fasted to death at Shravanabelagola.
+
+**Q11. Which of these was founded by Kumaragupta I?**
+(a) Vikramshila (b) Odantapuri (c) Nalanda (d) Taxila
+**Answer: (c) Nalanda.** Vikramshila was founded by Dharmapala (Pala).
+
+**Q12. How many spokes does the Dharmachakra in the Indian national flag have?**
+**Answer: 24.** The Chakra is taken from the Sarnath Lion Capital of Ashoka.
+
+## 18. Practice Questions
+
+**Q1. Under which tree and on which river bank did Mahavira attain Kevala Jnana?**
+**Answer: Sal tree, Rijupalika river** (Jrimbhikagrama).
+
+**Q2. Which vow was added by Mahavira to the four vows of Parshvanatha?**
+**Answer: Brahmacharya** (celibacy / chastity).
+
+**Q3. Which Buddhist sect emphasises the Bodhisattva ideal and idol worship?**
+**Answer: Mahayana.**
+
+**Q4. In which Pitaka are the monastic rules of the Buddhist Sangha compiled?**
+**Answer: Vinaya Pitaka** (the first recitation of Vinaya by Upali).
+
+**Q5. Who propounded Shunyavada (Madhyamika school)?**
+**Answer: Nagarjuna.**
+
+**Q6. Name the Jain practice of ritual fasting unto death.**
+**Answer: Sallekhana (Santhara).**
+
+**Q7. Which text records the dialogue between Nagasena and Menander?**
+**Answer: Milindapanho.**
+
+**Q8. Dhammapada belongs to which Nikaya of the Sutta Pitaka?**
+**Answer: Khuddaka Nikaya.**
+
+**Q9. Who founded the Ajivika sect, and what was its main doctrine?**
+**Answer: Makkhali Gosala; Niyativada** (fatalism).
+
+**Q10. At which place did Mahavira attain nirvana?**
+**Answer: Pavapuri** (near Rajgir, Bihar).
+
+---
+
+## 19. Common Exam Traps
+
+- **Panchsheel confusion:** Buddhist **Five Precepts** are not the **Panchsheel principles** of the 1954 India-China agreement.
+- **Triratna confusion:** Buddhist and Jain Triratnas are different.
+- **Eightfold Path trap:** it contains Right **View**, not Right Faith or Right Knowledge.
+- **Mahavira was not the founder** of Jainism; he was the 24th Tirthankara and a reformer.
+- **Birthplace trap:** Buddha was born at **Lumbini**, though he grew up at Kapilavastu.
+- **Death place trap:** Buddha at **Kushinagar**; Mahavira at **Pavapuri**.
+- **Fourth council** was in **Kashmir**, not Pataliputra.
+- **Language trap:** Buddhist canon is **Pali**; Jain Agamas are **Ardhamagadhi Prakrit**.
+- **Syadvada vs Anekantavada:** Anekantavada is the doctrine; Syadvada is the method of expression (Saptabhangi).
+- **Nirvana (Buddhism) vs Moksha / Kevala (Jainism)** are not interchangeable.
+- **Dates:** Mahavira 540 to 468 BCE (modern) vs 599 to 527 BCE (Jain tradition).
+- **Hinayana is associated with Ashoka and Pali; Mahayana with Kanishka and Sanskrit.**
+- **Digambara = Bhadrabahu (south); Shvetambara = Sthulabhadra (north).**
+- **Ellora has Buddhist, Hindu and Jain caves, so do not label it only Buddhist.**
+
+## 20. Last-Minute Revision Table
+
+| Fact | Answer |
+|---|---|
+| Buddha's birth / death place | **Lumbini / Kushinagar** |
+| Buddha's enlightenment / first sermon | **Bodh Gaya / Sarnath** |
+| Buddha's age at renunciation | **29** |
+| Four Noble Truths | Dukkha, Samudaya, Nirodha, Marga |
+| Eightfold Path groups | Prajna, Sila, Samadhi |
+| 1st / 2nd / 3rd / 4th Councils | **Rajagriha / Vaishali / Pataliputra / Kashmir** |
+| Presidents of Councils | **Mahakassapa / Sabakami / Moggaliputta Tissa / Vasumitra** |
+| Patron kings of Councils | **Ajatashatru / Kalashoka / Ashoka / Kanishka** |
+| Hinayana language / Mahayana language | **Pali / Sanskrit** |
+| Tripitaka | **Vinaya, Sutta, Abhidhamma** |
+| Buddhist Jataka | ~**547** previous-birth stories |
+| Nalanda / Vikramshila founders | **Kumaragupta I / Dharmapala** |
+| Mahavira birth / death place | **Kundagrama / Pavapuri** |
+| Mahavira: renunciation / Kevala age | **30 / 42** |
+| Mahavira's clan | **Jnatrika** |
+| 1st / 23rd / 24th Tirthankara | **Rishabhanatha / Parshvanatha / Mahavira** |
+| Jain Triratna | Right **Faith, Knowledge, Conduct** |
+| Jain Mahavratas | Ahimsa, Satya, Asteya, Aparigraha, **Brahmacharya** |
+| Jain sects and founders | **Digambara (Bhadrabahu) / Shvetambara (Sthulabhadra)** |
+| Jain councils | **Pataliputra (c. 300 BCE) / Valabhi (512 CE)** |
+| Jain philosophy | **Anekantavada, Syadvada** |
+| Gomateshwara statue | **Shravanabelagola, c. 981 CE, Chamundaraya** |
+| Dilwara temples | **Mount Abu, Rajasthan** |
+| Ellora caves | **12 Buddhist, 17 Hindu, 5 Jain** |
+| Ajanta caves | Buddhist; **Jataka paintings** |
+| Hathigumpha inscription | **Kharavela**, Udayagiri, Odisha |

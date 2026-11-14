@@ -264,7 +264,7 @@ def run(note: Path, engine: str, open_browser: bool):
 
 def finish(done: int, skipped: int, remaining: int):
     print("=" * 40)
-    print(f"Saved   : {done}")
+    print(f"Saved py  : {done}")
     print(f"Skipped : {skipped} (still placeholders)")
     if remaining:
         print(f"Not asked yet: {remaining}")
