@@ -1,0 +1,318 @@
+# Post-Mauryan India (c. 200 BCE – 300 CE): SSC High-Yield Notes
+
+## 1. Core Concepts
+
+- **Period:** the interval between the fall of the Mauryas (185 BCE) and the rise of the Guptas (c. 319 CE).
+- **Political feature:** fragmentation. Regional dynasties and foreign invaders ruled side by side.
+- **Cultural feature:** fusion of Indian, Greek, Iranian and Central Asian traditions.
+- **Economic feature:** peak of urbanisation, Indo-Roman trade and coinage.
+
+**Order of foreign invaders (mnemonic: "I Saw Peter Kill"):**
+**I**ndo-Greeks → **S**akas → **P**ahlavas (Parthians) → **K**ushanas
+
+| Dynasty | Region | Approx. Period |
+|---|---|---|
+| Shunga | Magadha, Central India | 185–73 BCE |
+| Kanva | Magadha | 73–28 BCE |
+| Mahameghavahana (Chedi) | Kalinga (Odisha) | 1st century BCE |
+| Satavahana | Deccan | c. 1st century BCE – 3rd century CE |
+| Indo-Greeks | North-West | c. 200 BCE – 10 CE |
+| Sakas | North-West, Western India | 1st century BCE – 4th century CE |
+| Parthians (Pahlavas) | North-West | 1st century CE |
+| Kushanas | North India, Central Asia | 1st – 3rd century CE |
+
+### Sources
+
+| Type | Examples |
+|---|---|
+| Literary | Puranas, Malavikagnimitram (Kalidasa), Harshacharita (Banabhatta), Mahabhashya (Patanjali), Divyavadana, Milindapanha |
+| Inscriptions | Ayodhya (Dhanadeva), Besnagar/Heliodorus pillar, Hathigumpha, Nanaghat, Nashik, Junagadh (Rudradaman), Rabatak, Takht-i-Bahi |
+| Coins | Indo-Greek, Satavahana (lead/potin), Saka, Kushana gold |
+| Foreign accounts | Periplus of the Erythraean Sea, Pliny's Natural History, Ptolemy's Geography |
+
+## 2. Dynasty-wise Notes
+
+### A. Shunga Dynasty (c. 185–73 BCE)
+
+- **Founder:** **Pushyamitra Shunga**, the Mauryan commander-in-chief, who assassinated the last Mauryan king **Brihadratha**.
+- **Capital:** Pataliputra, later Vidisha.
+- **Brahmanical revival:** he performed **two Ashvamedha yajnas**, recorded in the **Ayodhya inscription of Dhanadeva**.
+- **Patanjali**, author of the Mahabhashya, was his contemporary.
+- **Buddhist persecution** is claimed in Buddhist texts (Divyavadana), but Bharhut and Sanchi were also patronised in this period.
+- **Agnimitra** was the 2nd ruler and the hero of Kalidasa's **Malavikagnimitram**.
+- **Vasumitra**, grandson of Pushyamitra, defeated the Yavanas on the Sindhu river.
+- **Last ruler:** **Devabhuti**, killed by his minister **Vasudeva Kanva**.
+- **Art:** the **Bharhut stupa** (Satna, MP) with Jataka scenes, and the enlargement of the Sanchi stupa.
+
+![Bharhut stupa railing Jataka relief carvings](images/bharhut_stupa_railing_jataka_relief_carvings_2101e77419.jpg)
+
+### B. Kanva Dynasty (c. 73–28 BCE)
+
+- **Founder:** Vasudeva Kanva, a Brahmin minister.
+- **Four rulers:** Vasudeva, Bhumimitra, Narayana, Susarman.
+- **End:** the last ruler Susarman was overthrown by the **Satavahanas** (Simuka).
+
+### C. Mahameghavahana (Chedi) Dynasty of Kalinga
+
+- **Kharavela** (1st century BCE) was the greatest ruler.
+- **Hathigumpha inscription:** a 17-line **Prakrit** inscription in **Brahmi** script on the **Udayagiri hills** near Bhubaneswar. It records his reign year by year.
+- **Content:**
+  - He invaded Magadha and recovered the **Kalinga Jina** image taken by a Nanda king.
+  - He mentions a **Nanda canal**.
+  - He sent an army against the Satavahana king Satakarni.
+- **Jain patron:** he built the **Udayagiri–Khandagiri caves** (Hathigumpha, Rani Gumpha, Ganesh Gumpha).
+
+![Hathigumpha inscription Udayagiri Bhubaneswar Kharavela](images/hathigumpha_inscription_udayagiri_bhubaneswar_khar_e13cb8db73.jpg)
+
+### D. Satavahanas (Andhras)
+
+| Feature | Details |
+|---|---|
+| Founder | **Simuka** |
+| Capital | **Pratishthana (Paithan)**, Godavari valley |
+| Language, script | Prakrit, Brahmi |
+| Naming | Rulers took **mother's name** (Gautamiputra, Vasisthiputra) |
+| Coins | Mostly **lead and potin**, with ship, chaitya and Ujjain symbols |
+| Revenue | About **1/6th** of produce |
+
+**Key rulers**
+
+| Ruler | Highlights |
+|---|---|
+| **Satakarni I** | Performed **Ashvamedha** and **Rajasuya**. His queen **Naganika** issued the **Nanaghat** inscription. |
+| **Hala** | Compiled **Gathasaptashati** (Prakrit love verses). |
+| **Gautamiputra Satakarni** (c. 106–130 CE) | The greatest Satavahana. Defeated **Nahapana** (Saka), Pahlavas and Yavanas. Called **Ekabrahmana** and Dakshinapathapati. His mother **Gautami Balashri** issued the **Nashik prashasti**. |
+| **Vasisthiputra Pulumavi** | Associated with **Amaravati** stupa art. |
+| **Yajna Sri Satakarni** | Last great ruler. His coins show a **ship** (maritime trade). |
+
+- **Administration:** territory was divided into **aharas** (districts). Officers included Amatyas, Mahasenapati and Gaulmika. Feudatory titles were Maharathi and Mahabhoja.
+- **Land grants** to Brahmins and Buddhist monks (with tax exemption) began in this period.
+- **Religion:** both Vedic sacrifices and Buddhism flourished.
+- **Buddhist sites:** Amaravati, Nagarjunakonda, Karle, Nashik caves.
+- **Trade:** Bharuch (Barygaza), Sopara and Kalyan were major ports.
+
+![Karle chaitya hall rock-cut cave Satavahana](images/karle_chaitya_hall_rock-cut_cave_satavahana_9f70ed275e.jpg)
+
+### E. Indo-Greeks (Bactrian Greeks, "Yavanas")
+
+- **Demetrius I** was among the first to invade north-west India.
+- **Menander (Milinda)** was the greatest ruler. His capital was **Sakala (Sialkot)**.
+- He converted to Buddhism after debating the monk **Nagasena**, recorded in the Pali text **Milindapanha**.
+- **Coins:** the first to issue coins that clearly bear the king's name and portrait. Legends were bilingual (Greek + **Kharosthi**).
+- **Heliodorus pillar (Besnagar, Vidisha):**
+  - Heliodorus, a Greek ambassador of **Antialcidas of Taxila**, visited the Shunga king **Bhagabhadra**.
+  - He became a **Bhagavata** (Vaishnava) and set up a **Garuda pillar** for Vasudeva.
+  - This is early evidence of Bhagavatism and of foreigners adopting Indian religion.
+
+![Heliodorus Garuda pillar Besnagar Vidisha](IMG_QUERY: Heliodorus pillar Besnagar Vidisha Garuda column)
+
+### F. Sakas (Scythians)
+
+- **Maues (Moga)** was the first Saka king in India.
+- **Branches:** the Taxila/Mathura branch (Northern Kshatrapas) and the Ujjain/Nashik/Saurashtra branch (Western Kshatrapas).
+- **Nahapana** (Western Kshatrapa) was defeated by Gautamiputra Satakarni.
+- **Rudradaman I** (c. 130–150 CE) was the greatest Saka ruler.
+  - His **Junagadh (Girnar) inscription** is the earliest long inscription in **classical Sanskrit**.
+  - It records the repair of **Sudarshana lake**, built under Chandragupta Maurya's governor **Pushyagupta**. The Ashokan governor **Tushaspa** added canals.
+  - He repaired it **without forced labour (vishti)**.
+  - He defeated the Satavahanas but spared them because of a matrimonial relation.
+- **Eras:** the **Saka era (78 CE)** is the basis of India's national calendar. It is traditionally linked to **Kanishka**. **Vikram Samvat** (57 BCE) is traditionally linked to **Vikramaditya** of Ujjain.
+
+![Rudradaman Junagadh Girnar rock inscription](images/rudradaman_junagadh_girnar_rock_inscription_149ef1e03f.jpg)
+
+### G. Parthians (Pahlavas)
+
+- **Gondophernes** (1st century CE) was the most famous Pahlava ruler.
+- The **Takht-i-Bahi inscription** (Kharosthi, near Peshawar) belongs to his reign.
+- Christian tradition links **St Thomas** with his court.
+
+### H. Kushanas
+
+- **Origin:** the **Yuezhi** of Central Asia, pushed west by the Xiongnu. The Kushan clan united the five Yuezhi tribes.
+
+| Ruler | Highlights |
+|---|---|
+| **Kujula Kadphises** | Founder. Unified the Yuezhi tribes and issued coins. |
+| **Vima Kadphises** | Issued large **gold coins**. Shaiva devotee (Shiva and Nandi on coins). |
+| **Kanishka** (traditional date 78 CE) | Greatest Kushana. Capital **Purushapura (Peshawar)**, second capital **Mathura**. |
+| **Huvishka** | Successor of Kanishka. Gold coins and Mathura monasteries. |
+| **Vasudeva I** | Last great ruler. Indian name shows Indianisation. |
+
+**Kanishka's contributions**
+
+- **Fourth Buddhist Council** at **Kundalvana, Kashmir**. President: **Vasumitra**; vice-president: **Ashvaghosha**. The **Mahavibhasa** commentary was compiled here.
+- **Mahayana** received a major boost.
+- **Court scholars:** Ashvaghosha (Buddhacharita), Vasumitra, **Charaka** (physician; Charaka Samhita) and Nagarjuna (Madhyamika, in some traditions).
+- **Rabatak inscription** (Afghanistan): it is in the Bactrian language and records his genealogy.
+- **Titles:** **Devaputra** (Chinese influence), **Kaisara** (Roman) and **Shahanushahi** (Iranian).
+- **Silk Route:** control of it brought wealth. Gold coins (**dinara**) were modelled on Roman coins.
+
+![Kanishka Kushan gold coin with Buddha or Greek legend](images/kanishka_kushan_gold_coin_with_buddha_or_greek_leg_a2f1006f6e.jpg)
+
+## 3. Gandhara vs Mathura vs Amaravati Art
+
+| Feature | Gandhara | Mathura | Amaravati |
+|---|---|---|---|
+| Influence | Greco-Roman (Hellenistic) | Indigenous | Indigenous (Deccan) |
+| Material | Grey/blue **schist** | Spotted **red sandstone** | White **marble** |
+| Patrons | Kushanas | Kushanas | Satavahanas |
+| Buddha features | Wavy hair, drapery, Apollo-like | Shaved head, muscular, abhaya mudra | Narrative reliefs, later human form |
+| Other | Bodhisattva images | Also Jain and Hindu images | Stupa sculpture |
+
+![Gandhara Buddha statue grey schist](images/gandhara_buddha_statue_grey_schist_5b23abef72.jpg)
+
+![Mathura school Buddha red sandstone seated](images/mathura_school_buddha_red_sandstone_seated_7b41b8c24f.jpg)
+
+## 4. Sangam Age (Brief)
+
+- **Period:** c. 300 BCE – 300 CE (Tamilakam).
+
+| Kingdom | Capital | Port | Emblem | Notable Ruler |
+|---|---|---|---|---|
+| **Chola** | Uraiyur (later Puhar) | Puhar (Kaveripattinam) | Tiger | **Karikala** |
+| **Chera** | Vanji | Muziris, Tondi | Bow and arrow | **Senguttuvan** |
+| **Pandya** | Madurai | Korkai | Fish | **Nedunjeliyan** |
+
+- **Literature:** Tolkappiyam (grammar), Ettuthokai (8 anthologies), Pattupattu (10 idylls), Padinenkilkanakku (including **Thirukkural**).
+- **Epics:** **Silappadikaram** (Ilango Adigal) and **Manimekalai** (Sattanar).
+- **Arikamedu** (Puducherry) was an Indo-Roman trade port.
+
+## 5. Society, Economy and Religion
+
+- **Society:**
+  - Foreigners were absorbed as **Vratya Kshatriyas**.
+  - **Manusmriti** and Yajnavalkya Smriti were compiled.
+  - **Shrenis** (guilds) were powerful.
+- **Trade:**
+  - Silk Route trade by land.
+  - Red Sea trade with Rome. Pliny complained of the gold drain.
+  - Roman coin hoards are found in South India.
+- **Coinage:**
+  - Kushana: gold (dinara).
+  - Satavahana: lead/potin.
+  - Indo-Greek and Saka: silver.
+- **Religion:**
+  - **Mahayana Buddhism** and **Bhakti/Bhagavatism** grew.
+  - Buddha images were first made in this period.
+  - **Kharosthi** (right to left) was used in the north-west and **Brahmi** elsewhere.
+- **Science and literature:**
+  - Charaka Samhita and Sushruta Samhita.
+  - Buddhacharita.
+  - Gathasaptashati.
+  - Yavanajataka (astrology).
+
+## 6. Shortcuts and Memory Tricks
+
+- **Founders:** Shunga = Pushyamitra; Kanva = Vasudeva; Satavahana = Simuka; Kushana = Kujula Kadphises.
+- **Inscription match:** Hathigumpha → Kharavela; Nashik → Gautami Balashri; Junagadh → Rudradaman; Besnagar → Heliodorus; Rabatak → Kanishka.
+- **Literature match:** Hala → Gathasaptashati; Ashvaghosha → Buddhacharita; Charaka → Charaka Samhita; Kalidasa → Malavikagnimitram (Agnimitra).
+- **Satavahana naming:** mother's name as prefix (Gautamiputra, Vasisthiputra).
+- **Art material:** Gandhara = schist; Mathura = red sandstone; Amaravati = marble.
+
+## 7. PYQ-Pattern Questions with Solutions
+
+*(Pattern-based questions. Not claimed as verified actual PYQs.)*
+
+**Q1.** Who founded the Shunga dynasty?
+**Ans:** Pushyamitra Shunga. He killed the last Mauryan king Brihadratha.
+
+**Q2.** Which inscription records two Ashvamedha sacrifices by Pushyamitra?
+**Ans:** The Ayodhya inscription of Dhanadeva.
+
+**Q3.** The Heliodorus pillar at Besnagar was dedicated to which deity?
+**Ans:** Vasudeva (Vishnu). Heliodorus was a Greek ambassador who became a Bhagavata.
+
+**Q4.** Which Satavahana ruler defeated the Sakas, Pahlavas and Yavanas?
+**Ans:** Gautamiputra Satakarni. He defeated Nahapana and is called Ekabrahmana.
+
+**Q5.** The *Gathasaptashati* was compiled by:
+**Ans:** Hala (a Satavahana king), in Prakrit.
+
+**Q6.** The Hathigumpha inscription belongs to which ruler?
+**Ans:** Kharavela of the Chedi (Mahameghavahana) dynasty, in Kalinga.
+
+**Q7.** The Junagadh inscription of Rudradaman I is important because it is:
+**Ans:** The earliest long inscription in classical Sanskrit. It also records the repair of Sudarshana lake.
+
+**Q8.** Who was the greatest Indo-Greek ruler, and which text records his dialogue with Nagasena?
+**Ans:** Menander (Milinda); Milindapanha.
+
+**Q9.** The Fourth Buddhist Council under Kanishka was held at:
+**Ans:** Kundalvana, Kashmir. The president was Vasumitra and the vice-president Ashvaghosha.
+
+**Q10.** Which Kushana ruler issued gold coins in large numbers and was a Shaiva devotee?
+**Ans:** Vima Kadphises (Kadphises II), with Shiva and Nandi on coins.
+
+**Q11.** Gandhara school of art was influenced by:
+**Ans:** Greco-Roman (Hellenistic) art. The main material was grey schist.
+
+**Q12.** Who was the court physician of Kanishka?
+**Ans:** Charaka, author of the Charaka Samhita.
+
+**Q13.** Which king killed Devabhuti, the last Shunga ruler?
+**Ans:** His minister Vasudeva Kanva, who founded the Kanva dynasty.
+
+**Q14.** Which Sangam text is by Ilango Adigal?
+**Ans:** Silappadikaram.
+
+## 8. Practice Questions
+
+**P1.** The Nanaghat inscription was issued by which queen?
+**Ans:** Naganika, queen of Satakarni I.
+
+**P2.** Which title used by Kushana kings was borrowed from Rome?
+**Ans:** Kaisara.
+
+**P3.** Which hoard shows Gautamiputra Satakarni restruck the coins of Nahapana?
+**Ans:** The Jogalthembi hoard (Nashik).
+
+**P4.** Which script, written right to left, appears on Indo-Greek and Kushana coins?
+**Ans:** Kharosthi.
+
+**P5.** The Takht-i-Bahi inscription is connected with which ruler?
+**Ans:** Gondophernes, a Parthian (Pahlava) king.
+
+**P6.** The Rabatak inscription is linked to which Kushana ruler?
+**Ans:** Kanishka. It is in the Bactrian language and records his genealogy.
+
+**P7.** The national calendar of India is based on which era, and from which year?
+**Ans:** The Saka era, beginning in 78 CE.
+
+**P8.** Which Gupta-era governor's family repaired Sudarshana lake after Rudradaman's repair?
+**Ans:** Parnadatta, governor of Skandagupta, and his son Chakrapalita.
+
+## 9. Common Exam Traps
+
+- **Shunga persecution:** Buddhist texts claim persecution of Buddhists, but Bharhut and Sanchi were developed under them. Do not mark "Shungas only persecuted Buddhists" as fully correct.
+- **Satavahana coins:** mostly lead and potin. Do not confuse them with the Kushana gold coinage.
+- **Satavahana names:** mother's name came first (Gautamiputra), but succession was still patrilineal.
+- **Saka era:** 78 CE is called the Saka era (traditionally linked to Kanishka). Do not confuse it with Vikram Samvat (57 BCE).
+- **Rudradaman:** the Junagadh inscription is Saka, not Satavahana.
+- **Gandhara vs Mathura:** Gandhara = Greco-Roman, schist; Mathura = indigenous, red sandstone.
+- **Indo-Greek gold coinage:** the Indo-Greeks are often credited with the first gold coins. The Kushanas issued gold on the largest scale. Read the question carefully.
+- **Kharavela:** Hathigumpha is Prakrit in Brahmi script, not Sanskrit.
+- **Fourth Buddhist Council:** under Kanishka (Mahayana). Do not confuse it with the Third Council under Ashoka.
+- **Heliodorus:** a Greek who became a Vaishnava (Bhagavata). He did not become Buddhist.
+
+## 10. Last-Minute Revision Table
+
+| Item | Key Fact |
+|---|---|
+| Shunga founder | Pushyamitra; killed Brihadratha |
+| Shunga art | Bharhut stupa; Sanchi enlarged |
+| Kanva founder | Vasudeva Kanva (Brahmin) |
+| Kharavela | Chedi; Hathigumpha; Udayagiri caves; Jain patron |
+| Satavahana founder, capital | Simuka; Pratishthana (Paithan) |
+| Greatest Satavahana | Gautamiputra Satakarni; Nashik prashasti |
+| Hala | Gathasaptashati (Prakrit) |
+| Indo-Greek peak | Menander (Milinda); Sakala; Nagasena; Milindapanha |
+| Heliodorus | Besnagar Garuda pillar; Bhagabhadra |
+| Saka | Maues (first); Rudradaman (Junagadh, Sudarshana lake) |
+| Parthian | Gondophernes; Takht-i-Bahi |
+| Kushana founder | Kujula Kadphises |
+| Kushana gold coins | Vima Kadphises (Shiva and Nandi) |
+| Kanishka | Purushapura; Mathura; Kundalvana Council; Rabatak |
+| Court scholars | Ashvaghosha, Vasumitra, Charaka |
+| Art schools | Gandhara (schist), Mathura (red sandstone), Amaravati (marble) |
+| Sangam kingdoms | Chola (tiger), Chera (bow), Pandya (fish) |
+| Sangam epics | Silappadikaram, Manimekalai |

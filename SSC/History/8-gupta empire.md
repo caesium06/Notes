@@ -1,6 +1,6 @@
 # Gupta Empire (c. 319–550 CE)
 
-![Map of the Gupta Empire at its peak under Chandragupta II](IMG_QUERY: Gupta Empire map Chandragupta II territory)
+![Map of the Gupta Empire at its peak under Chandragupta II](images/map_of_the_gupta_empire_at_its_peak_under_chandrag_f31eb52c15.jpg)
 
 ## 1. Core Concepts
 
@@ -39,7 +39,7 @@
   - Engraved on an Ashokan pillar, which also carries Ashoka's edicts and a later Jahangir inscription.
   - Language and style: Sanskrit, Champu.
 
-![Allahabad Pillar with Prayag Prashasti inscription](IMG_QUERY: Allahabad Pillar Prayag Prashasti Ashokan pillar Samudragupta)
+![Allahabad Pillar with Prayag Prashasti inscription](images/allahabad_pillar_with_prayag_prashasti_inscription_4d303bb7bb.jpg)
 
 ### Conquest Policy
 
@@ -58,7 +58,7 @@
 - Was himself a poet and a musician, and a Vishnu devotee.
 - Patronised the Buddhist scholar **Vasubandhu**.
 
-![Samudragupta Lyrist type gold coin](IMG_QUERY: Samudragupta Lyrist type gold coin Gupta dinara)
+![Samudragupta Lyrist type gold coin](images/samudragupta_lyrist_type_gold_coin_2a13b6007c.jpg)
 
 ## 4. Chandragupta II "Vikramaditya" (c. 375–415)
 
@@ -71,11 +71,11 @@
 - **Navaratnas** (traditional): Kalidasa, Amarasimha, Varahamihira, Dhanvantari, Kshapanaka, Shanku, Vetalabhatta, Ghatakarpara, Vararuchi.
 - **Mehrauli Iron Pillar inscription** (Delhi) mentions king "Chandra", usually identified as Chandragupta II. It records the crossing of the "seven mouths of the Indus" and the defeat of the **Vahlikas** (Bactria).
 
-![Mehrauli Iron Pillar, Delhi](IMG_QUERY: Mehrauli Iron Pillar Delhi Qutub complex)
+![Mehrauli Iron Pillar, Delhi](images/mehrauli_iron_pillar__delhi_f02e5cc297.jpg)
 
 - **Udayagiri caves** (Vidisha) have an inscription of Chandragupta II and the famous **Varaha** sculpture.
 
-![Varaha rescuing Bhudevi at Udayagiri Caves](IMG_QUERY: Udayagiri Caves Vidisha Varaha sculpture Gupta)
+![Varaha rescuing Bhudevi at Udayagiri Caves](images/varaha_rescuing_bhudevi_at_udayagiri_caves_74fa4c36d0.jpg)
 
 ## 5. Kumaragupta I and Skandagupta
 
@@ -186,7 +186,7 @@
 | **Shiva Temple** | Bhumara (MP) |
 | **Vishnu Temple** | Tigawa (MP) |
 
-![Dashavatara Temple, Deogarh](IMG_QUERY: Dashavatara Temple Deogarh Gupta sculpture)
+![Dashavatara Temple, Deogarh](images/dashavatara_temple__deogarh_30deb2aa3c.jpg)
 
 ### Sculpture and Painting
 - **Sarnath school:** the famous seated Buddha in dharmachakra pravartana mudra (Chunar sandstone).
@@ -194,7 +194,7 @@
 - **Sultanganj Buddha** (Bhagalpur): copper statue, about 7.5 ft.
 - Painting: **Ajanta** (Caves 16, 17) and **Bagh caves** (MP).
 
-![Gupta period Sarnath Buddha preaching statue](IMG_QUERY: Gupta period seated Buddha Sarnath Museum)
+![Gupta period Sarnath Buddha preaching statue](images/gupta_period_sarnath_buddha_preaching_statue_54300e0d9b.jpg)
 
 ### Coin Types
 

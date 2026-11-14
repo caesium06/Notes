@@ -104,7 +104,7 @@
   - He became a **Bhagavata** (Vaishnava) and set up a **Garuda pillar** for Vasudeva.
   - This is early evidence of Bhagavatism and of foreigners adopting Indian religion.
 
-![Heliodorus Garuda pillar Besnagar Vidisha](IMG_QUERY: Heliodorus pillar Besnagar Vidisha Garuda column)
+![Heliodorus Garuda pillar Besnagar Vidisha](images/heliodorus_garuda_pillar_besnagar_vidisha_11dd459de6.jpg)
 
 ### F. Sakas (Scythians)
 
