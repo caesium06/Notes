@@ -1,0 +1,83 @@
+name: Download note images
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "SSC/History/**/*.md"
+  workflow_dispatch: # manual run: processes every note under SSC/History
+
+permissions:
+  contents: write
+
+# One run at a time so the bot commits never race each other.
+concurrency:
+  group: download-note-images
+  cancel-in-progress: false
+
+env:
+  NOTES_DIR: SSC/History
+  SCRIPT: SSC/History/download_images.py
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12" # script uses only the standard library
+
+      - name: Find new or changed notes that still need images
+        run: |
+          set -euo pipefail
+          BEFORE="${{ github.event.before }}"
+          ZERO="0000000000000000000000000000000000000000"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] \
+             || [ -z "$BEFORE" ] || [ "$BEFORE" = "$ZERO" ] \
+             || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            git ls-files -z -- "$NOTES_DIR/*.md" > "$RUNNER_TEMP/all.txt"
+          else
+            git diff --name-only -z --diff-filter=AM "$BEFORE" "${{ github.sha }}" -- "$NOTES_DIR/*.md" > "$RUNNER_TEMP/all.txt"
+          fi
+
+          # Keep only files that still have placeholders or remote image links.
+          : > "$RUNNER_TEMP/todo.txt"
+          while IFS= read -r -d '' f; do
+            if grep -qiE 'IMG_QUERY|!\[[^]]*\]\(https?://' "$f"; then
+              printf '%s\0' "$f" >> "$RUNNER_TEMP/todo.txt"
+            fi
+          done < "$RUNNER_TEMP/all.txt"
+
+          echo "Notes to process:"
+          tr '\0' '\n' < "$RUNNER_TEMP/todo.txt"
+
+      - name: Run image downloader
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          while IFS= read -r -d '' f; do
+            echo "::group::$f"
+            python "$SCRIPT" "$f"
+            echo "::endgroup::"
+          done < "$RUNNER_TEMP/todo.txt"
+
+      - name: Commit images and rewritten notes
+        run: |
+          set -euo pipefail
+          find "$NOTES_DIR" -name '*.md.bak' -delete   # script's local backup, not for the repo
+          git add -A -- "$NOTES_DIR"
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: download note images and localize links [skip ci]"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin "HEAD:${{ github.ref_name }}"
