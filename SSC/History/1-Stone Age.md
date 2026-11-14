@@ -1,451 +1,298 @@
-# Stone Age – Complete Notes
-
-Indian History | Competitive Exam Preparation (SSC, CGL, Kerala PSC)
-
-## 1. Introduction to the Stone Age
-
-- The Stone Age is the earliest period of human history.
-- It is called the Stone Age because humans primarily used stone tools and weapons.
-- Humans depended on hunting, fishing and gathering food.
-- They gradually developed agriculture, animal domestication and settled life.
-- The Stone Age is divided into three major periods:
-
-1. Palaeolithic Age (Old Stone Age)
-2. Mesolithic Age (Middle Stone Age)
-3. Neolithic Age (New Stone Age)
-
-## 2. Division of the Stone Age
-
-| Period       | Meaning          | Major Development                |
-| ------------ | ---------------- | -------------------------------- |
-| Palaeolithic | Old Stone Age    | Hunting and gathering            |
-| Mesolithic   | Middle Stone Age | Microliths and semi-settled life |
-| Neolithic    | New Stone Age    | Agriculture and polished tools   |
-
-## 3. Palaeolithic Age (Old Stone Age)
-
-Time Period: Approximately 2.5 million BCE – 10,000 BCE (broad prehistoric framework).
-
-### Major Features
-
-- Humans lived as nomads.
-- Hunting animals and gathering fruits were the main occupations.
-- They lived in caves and rock shelters.
-- Used crude and unpolished stone tools.
-- Had no knowledge of agriculture.
-- Used fire for warmth, protection and cooking.
-- Lived in small groups.
-
-### Important Tools
-
-- Hand axes
-- Cleavers
-- Choppers
-- Flakes
-- Scrapers
-
-### Important Sites in India
-
-| Site           | Location             | Importance                              |
-| -------------- | -------------------- | --------------------------------------- |
-| Bhimbetka      | Madhya Pradesh       | Rock shelters and prehistoric paintings |
-| Hunsgi         | Karnataka            | Palaeolithic tools                      |
-| Attirampakkam  | Tamil Nadu           | Early Palaeolithic evidence             |
-| Soan Valley    | Present-day Pakistan | Palaeolithic tools                      |
-| Narmada Valley | Madhya Pradesh       | Evidence of early human presence        |
-
-### Important Facts
-
-- Palaeolithic humans were primarily hunter-gatherers.
-- They used large stone tools.
-- Early evidence of human use of fire belongs to the Palaeolithic period.
-- Bhimbetka is famous for prehistoric rock paintings.
-
-## 4. Mesolithic Age (Middle Stone Age)
-
-Time Period: Approximately 10,000 BCE – 6,000 BCE (varies by region).
-
-### Major Features
-
-- Transitional period between Palaeolithic and Neolithic ages.
-- Climate became warmer after the last Ice Age.
-- Hunting, fishing and food gathering continued.
-- Humans began domesticating animals.
-- Some communities started living in semi-permanent settlements.
-- Small stone tools called microliths became common.
-
-### Important Tools
-
-- Microliths
-- Small blades
-- Arrowheads
-- Spearheads
-- Bone tools
-
-### Important Sites in India
-
-| Site            | Location       | Importance                                              |
-| --------------- | -------------- | ------------------------------------------------------- |
-| Bagor           | Rajasthan      | Mesolithic settlement and animal domestication evidence |
-| Adamgarh        | Madhya Pradesh | Evidence of animal domestication                        |
-| Langhnaj        | Gujarat        | Human skeletal remains and microliths                   |
-| Sarai Nahar Rai | Uttar Pradesh  | Mesolithic human burials                                |
-| Bhimbetka       | Madhya Pradesh | Mesolithic rock paintings                               |
-
-### Important Facts
-
-- Microliths are the characteristic tools of the Mesolithic Age.
-- Hunting and fishing were important occupations.
-- Rock paintings depicted hunting, animals and daily activities.
-- Animal domestication became more common.
-
-## 5. Neolithic Age (New Stone Age)
-
-Time Period: Approximately 7,000 BCE onwards in parts of the Indian subcontinent.
-
-### Major Features
-
-- Agriculture became an important occupation.
-- Humans started living in permanent settlements.
-- Domestication of animals became widespread.
-- Polished stone tools were used.
-- Pottery became common.
-- Weaving and storage of food developed.
-- People began producing their own food instead of depending entirely on nature.
-
-### Important Tools
-
-- Polished stone axes
-- Adzes
-- Grinding stones
-- Sickles
-- Mortars and pestles
-
-### Important Neolithic Sites in India
-
-| Site           | Location               | Importance                                       |
-| -------------- | ---------------------- | ------------------------------------------------ |
-| Mehrgarh       | Balochistan (Pakistan) | Early agriculture and animal domestication       |
-| Burzahom       | Kashmir                | Pit dwellings and dog burials                    |
-| Gufkral        | Kashmir                | Neolithic settlement                             |
-| Chirand        | Bihar                  | Bone tools and Neolithic remains                 |
-| Koldihwa       | Uttar Pradesh          | Evidence associated with early rice cultivation  |
-| Mahagara       | Uttar Pradesh          | Neolithic settlement and cattle-related evidence |
-| Daojali Hading | Assam                  | Neolithic tools and cord-impressed pottery       |
-| Hallur         | Karnataka              | Neolithic settlement                             |
-
-### Important Facts
-
-- Mehrgarh is one of the earliest farming settlements in the Indian subcontinent.
-- Burzahom is famous for pit dwellings.
-- Burzahom also provides evidence of human and animal burials.
-- Agriculture and animal domestication transformed human life.
-- Polished stone tools are characteristic of the Neolithic Age.
-
-## 6. Comparison of the Three Ages
-
-| Feature              | Palaeolithic           | Mesolithic                       | Neolithic             |
-| -------------------- | ---------------------- | -------------------------------- | --------------------- |
-| Meaning              | Old Stone              | Middle Stone                     | New Stone             |
-| Lifestyle            | Nomadic                | Semi-nomadic                     | Settled               |
-| Main occupation      | Hunting and gathering  | Hunting, fishing and gathering   | Agriculture           |
-| Tools                | Large crude tools      | Small microliths                 | Polished tools        |
-| Agriculture          | Absent                 | Early beginnings in some regions | Developed             |
-| Animal domestication | Limited/early evidence | Increasing                       | Widespread            |
-| Housing              | Caves and shelters     | Temporary shelters               | Permanent settlements |
-| Pottery              | Generally absent       | Limited regional evidence        | Common                |
-| Food production      | No                     | Transitional                     | Yes                   |
-
-## 7. Important Prehistoric Developments
-
-### Discovery and Use of Fire
-
-- Fire helped humans cook food.
-- Provided warmth in cold climates.
-- Protected humans from wild animals.
-- Improved their ability to survive.
-
-### Development of Agriculture
-
-- Agriculture became prominent during the Neolithic period.
-- It encouraged permanent settlements.
-- Food production led to population growth.
-- It helped develop villages and communities.
-
-### Animal Domestication
-
-- Dogs were among the earliest domesticated animals.
-- Cattle, sheep and goats became important domesticated animals.
-- Animals provided food, transport and agricultural assistance.
-
-### Rock Paintings
-
-- Bhimbetka in Madhya Pradesh is famous for prehistoric rock paintings.
-- Paintings depict hunting, dancing, animals and community activities.
-- They provide information about prehistoric human life.
-
-# Important One-Liners for Competitive Exams
-
-1. Old Stone Age is known as the Palaeolithic Age.
-2. Middle Stone Age is known as the Mesolithic Age.
-3. New Stone Age is known as the Neolithic Age.
-4. Microliths are associated with the Mesolithic Age.
-5. Polished stone tools are associated with the Neolithic Age.
-6. Bhimbetka is located in Madhya Pradesh.
-7. Mehrgarh is located in present-day Pakistan.
-8. Burzahom is located in Kashmir.
-9. Burzahom is famous for pit dwellings.
-10. Bagor is located in Rajasthan.
-11. Chirand is located in Bihar.
-12. Daojali Hading is located in Assam.
-13. Agriculture became prominent during the Neolithic Age.
-14. The Stone Age preceded the Bronze Age.
-15. Dogs were among the earliest domesticated animals.
-
-# Questions and Answers
-
-## A. Multiple Choice Questions (MCQs)
-
-1\. Which is the earliest period of the Stone Age?
-
-A) Neolithic\
-B) Mesolithic\
-C) Palaeolithic\
-D) Chalcolithic
-
-Answer: C) Palaeolithic
-
-2\. Microliths are associated with which period?
-
-A) Palaeolithic\
-B) Mesolithic\
-C) Neolithic\
-D) Iron Age
-
-Answer: B) Mesolithic
-
-3\. Which period is known as the New Stone Age?
-
-A) Palaeolithic\
-B) Mesolithic\
-C) Neolithic\
-D) Chalcolithic
-
-Answer: C) Neolithic
-
-4\. Bhimbetka is famous for:
-
-A) Iron tools\
-B) Rock paintings\
-C) Bronze statues\
-D) Harappan seals
-
-Answer: B) Rock paintings
-
-5\. Burzahom is located in:
-
-A) Rajasthan\
-B) Bihar\
-C) Kashmir\
-D) Gujarat
-
-Answer: C) Kashmir
-
-6\. Which site is famous for pit dwellings?
-
-A) Mehrgarh\
-B) Burzahom\
-C) Bagor\
-D) Chirand
-
-Answer: B) Burzahom
-
-7\. Agriculture became prominent during which age?
-
-A) Palaeolithic\
-B) Mesolithic\
-C) Neolithic\
-D) Iron Age
-
-Answer: C) Neolithic
-
-8\. Mehrgarh is associated with:
-
-A) Early agriculture\
-B) Iron smelting\
-C) Buddhist architecture\
-D) Megalithic burials
-
-Answer: A) Early agriculture
-
-9\. Which of the following is a Mesolithic site?
-
-A) Bagor\
-B) Harappa\
-C) Mohenjo-Daro\
-D) Lothal
-
-Answer: A) Bagor
-
-10\. Polished stone tools are characteristic of:
-
-A) Palaeolithic\
-B) Mesolithic\
-C) Neolithic\
-D) Iron Age
-
-Answer: C) Neolithic
-
-11\. Which site is located in Bihar?
-
-A) Burzahom\
-B) Chirand\
-C) Bagor\
-D) Hallur
-
-Answer: B) Chirand
-
-12\. Daojali Hading is located in:
-
-A) Assam\
-B) Kerala\
-C) Punjab\
-D) Gujarat
-
-Answer: A) Assam
-
-13\. Which age is considered a transitional phase between the Old and New Stone Ages?
-
-A) Bronze Age\
-B) Mesolithic Age\
-C) Iron Age\
-D) Chalcolithic Age
-
-Answer: B) Mesolithic Age
-
-14\. Which of the following was a major occupation during the Palaeolithic Age?
-
-A) Agriculture\
-B) Trade\
-C) Hunting and gathering\
-D) Metalworking
-
-Answer: C) Hunting and gathering
-
-15\. Which animal was among the earliest domesticated by humans?
-
-A) Elephant\
-B) Dog\
-C) Horse\
-D) Camel
-
-Answer: B) Dog
-
-## B. Short Answer Questions
-
-1\. What is the Stone Age?
-
-The Stone Age is the prehistoric period when humans primarily used stone tools and weapons.
-
-2\. Name the three divisions of the Stone Age.
-
-- Palaeolithic Age
-- Mesolithic Age
-- Neolithic Age
-
-3\. What are microliths?
-
-Microliths are small stone tools commonly associated with the Mesolithic Age.
-
-4\. What is the main difference between Palaeolithic and Neolithic humans?
-
-Palaeolithic humans mainly depended on hunting and gathering, whereas Neolithic humans practised agriculture and lived in permanent settlements.
-
-5\. Why is Bhimbetka important?
-
-Bhimbetka is famous for prehistoric rock shelters and paintings that provide evidence of early human life.
-
-6\. Why is Mehrgarh important?
-
-Mehrgarh provides evidence of early agriculture, animal domestication and settled village life in the Indian subcontinent.
-
-7\. What are pit dwellings?
-
-Pit dwellings are houses constructed by digging pits into the ground. They are particularly associated with the Neolithic site of Burzahom.
-
-8\. Mention four important developments during the Neolithic Age.
-
-- Agriculture
-- Animal domestication
-- Permanent settlements
-- Polished stone tools
-
-## C. Match the Following
-
-| Site              | Location          |
-| ----------------- | ----------------- |
-| 1. Bhimbetka      | A. Bihar          |
-| 2. Burzahom       | B. Madhya Pradesh |
-| 3. Bagor          | C. Kashmir        |
-| 4. Chirand        | D. Rajasthan      |
-| 5. Daojali Hading | E. Assam          |
-
-Answers: 1-B, 2-C, 3-D, 4-A, 5-E.
-
-## D. Important Exam Practice – Identify the Correct Statement
-
-1\. Consider the following statements:
-
-1. Microliths are associated with the Mesolithic Age.
-2. Agriculture became prominent during the Neolithic Age.
-
-A) Only 1 is correct\
-B) Only 2 is correct\
-C) Both are correct\
-D) Neither is correct
-
-Answer: C) Both are correct
-
-2\. Which of the following pairs is incorrectly matched?
-
-A) Bhimbetka – Madhya Pradesh\
-B) Burzahom – Kashmir\
-C) Bagor – Rajasthan\
-D) Chirand – Gujarat
-
-Answer: D) Chirand – Gujarat
-
-3\. Consider the following developments:
-
-1. Hunting and gathering
-2. Microlithic tools
-3. Agriculture and permanent settlements
-
-Choose the correct chronological order.
-
-A) 1 → 2 → 3\
-B) 2 → 1 → 3\
-C) 3 → 2 → 1\
-D) 1 → 3 → 2
-
-Answer: A) 1 → 2 → 3
-
-## 8. Quick Revision Table
-
-| Question                                         | Answer         |
-| ------------------------------------------------ | -------------- |
-| Old Stone Age                                    | Palaeolithic   |
-| Middle Stone Age                                 | Mesolithic     |
-| New Stone Age                                    | Neolithic      |
-| Microliths                                       | Mesolithic     |
-| Polished tools                                   | Neolithic      |
-| Rock paintings                                   | Bhimbetka      |
-| Pit dwellings                                    | Burzahom       |
-| Early farming settlement                         | Mehrgarh       |
-| Mesolithic site in Rajasthan                     | Bagor          |
-| Neolithic site in Bihar                          | Chirand        |
-| Neolithic site in Assam                          | Daojali Hading |
-| Agriculture                                      | Neolithic      |
-| Earliest domesticated animal among these options | Dog            |
-
-Exam tip: For SSC CGL and Kerala PSC, give special attention to the three Stone Age divisions, their tools, chronological order and archaeological sites with their locations. These are particularly useful for factual MCQs.
+# Stone Age in India
+
+![Map of important Stone Age sites in India](images/map_of_important_stone_age_sites_in_india_f722637933.jpg)
+
+## 1. Core Concepts
+
+- **Prehistory:** the period before written records, studied only through archaeology (tools, bones, paintings, pottery).
+- **Stone Age divisions in India:**
+
+| Phase | Approx. Period | Economy | Key Feature |
+|---|---|---|---|
+| **Palaeolithic** (Old Stone Age) | c. 2 million BCE to 10,000 BCE | Hunting and food gathering | Crude, unpolished stone tools; fire known |
+| **Mesolithic** (Middle Stone Age) | c. 10,000 to 6,000 BCE (some books: 8,000 to 4,000 BCE) | Hunting, fishing, herding | **Microliths**; bow and arrow; first animal domestication |
+| **Neolithic** (New Stone Age) | c. 6,000 to 1,000 BCE (Mehrgarh from c. 7,000 BCE) | Farming and settled life | **Polished stone tools**; pottery; agriculture |
+| **Chalcolithic** (Copper-Stone Age) | c. 3,000 to 1,000/700 BCE | Farming with copper use | First metal (**copper**); painted pottery; village life |
+
+- **Geological age:** Palaeolithic = **Pleistocene (Ice Age)**; Mesolithic and later = **Holocene**.
+- **Father of Indian Prehistory:** **Robert Bruce Foote**. He found the first Palaeolithic tool (a hand axe) at **Pallavaram, near Chennai, in 1863**.
+- **"Neolithic Revolution":** term by **V. Gordon Childe** for the shift to agriculture and settled life.
+
+## 2. Palaeolithic Age (Old Stone Age)
+
+### Features
+- People were **nomadic hunter-gatherers** living in **caves and rock shelters**.
+- **No agriculture, no pottery, no permanent houses.**
+- **Fire** was discovered (ash deposits at Kurnool caves).
+- Tools of **quartzite** (hence "Quartzite men"), mostly chipped; bone tools appear late.
+
+### Three Sub-phases
+
+| Sub-phase | Tools | Key Sites |
+|---|---|---|
+| **Lower** | Hand axes, cleavers, choppers, chopping tools | Attirampakkam (TN), Hunsgi (Karnataka), Bhimbetka, Didwana (Rajasthan), Belan valley (UP), Soan valley |
+| **Middle** | Tools on **flakes**: scrapers, borers, points | Nevasa (Maharashtra), Narmada valley, Belan valley |
+| **Upper** | **Blades, burins**, bone tools; **Homo sapiens** appears | Renigunta, Kurnool caves (AP), Belan valley, Bhimbetka |
+
+![Acheulian hand axe, a typical Lower Palaeolithic tool](images/acheulian_hand_axe__a_typical_lower_palaeolithic_t_36abfa84b5.jpg)
+
+### Important Palaeolithic Sites
+
+| Site | State / Region | Why Important |
+|---|---|---|
+| **Attirampakkam** | Tamil Nadu (Kortallayar valley) | Very early Acheulian tools |
+| **Pallavaram** | Near Chennai | First Palaeolithic tool found by Foote (1863) |
+| **Hathnora** | Narmada valley, MP | Skull of **archaic Homo sapiens** (found 1982) |
+| **Bhimbetka** | Raisen, Madhya Pradesh | Rock shelters; **UNESCO site (2003)**; found by **V.S. Wakankar** |
+| **Belan valley** | Mirzapur / Prayagraj, UP | Only area showing all phases from **Lower Palaeolithic to Neolithic** |
+| **Kurnool caves** | Andhra Pradesh | Ash deposits (evidence of fire), bone tools |
+| **Soan valley** | Punjab (Pakistan) | Pebble-tool "Soan culture" |
+| **Didwana** | Rajasthan | Lower Palaeolithic tools |
+
+### Rock Art
+- **Upper Palaeolithic** saw the **first paintings**, though most Bhimbetka art is Mesolithic.
+- Colours: **red (haematite/geru), white, green**.
+- Themes: wild animals, hunting scenes.
+
+![Rock shelter paintings at Bhimbetka](images/rock_shelter_paintings_at_bhimbetka_4f8eba7790.jpg)
+
+## 3. Mesolithic Age (Middle Stone Age)
+
+### Features
+- Climate became warmer and drier, so the **Holocene** began.
+- **Microliths** (tiny tools, usually under 5 cm): blades, crescents, triangles, trapezes. They were fixed in wood or bone handles as **composite tools**.
+- **Bow and arrow** came into use.
+- **First domestication of animals** (the **dog** was the first).
+- Hunting, fishing, and food gathering continued, with some herding.
+- **Burial of the dead** is seen.
+- **Rock paintings** show dances, group hunts, animals, birth, and everyday life.
+
+![Mesolithic microliths from India](images/mesolithic_microliths_from_india_81d2e16f39.jpg)
+
+### Important Mesolithic Sites
+
+| Site | Location | Why Important |
+|---|---|---|
+| **Bagor** | Bhilwara, Rajasthan | Largest Mesolithic site in India; evidence of animal domestication |
+| **Adamgarh** | Hoshangabad, MP | Early evidence of animal domestication |
+| **Langhnaj** | Gujarat | Microliths and human skeletons |
+| **Sarai Nahar Rai, Mahadaha, Damdama** | Pratapgarh, UP | Burials, bone and horn objects |
+| **Chopani Mando** | Belan valley, UP | Microliths, early hut circles |
+| **Bhimbetka** | MP | Main Mesolithic rock paintings |
+
+## 4. Neolithic Age (New Stone Age)
+
+### Features
+- **Agriculture and domestication** led to **settled village life**.
+- **Polished and ground stone tools**: **celts**, axes, adzes.
+- **Pottery** appears (hand-made first, then **wheel-made**).
+- **Mud-brick or pit houses** and storage of grain.
+- Crops: **wheat and barley** (north-west), **rice** (Belan valley), **ragi and horse gram** (south).
+- Animals: cattle, sheep, goat.
+
+![Polished Neolithic stone celt axe from India](images/polished_neolithic_stone_celt_axe_from_india_92057abfae.jpg)
+
+### Regional Centres
+
+| Region | Sites | Key Point |
+|---|---|---|
+| **North-West** | **Mehrgarh**, Kili Ghul Mohammad (Balochistan) | Earliest farming settlement in South Asia |
+| **Kashmir** | **Burzahom**, Gufkral | Pit dwellings; dog buried with owner |
+| **Vindhya / Belan valley** | **Koldihwa** | Earliest evidence of **rice** in India |
+| **Bihar** | **Chirand** (Saran) | Bone tools; wheat, rice, barley, pulses |
+| **North-East** | **Daojali Hading** (Assam) | Polished stone tools, shouldered celts |
+| **South** | Maski, Brahmagiri, Piklihal, Hallur, Utnur, Sangankallu (Karnataka); Paiyampalli (TN) | Cattle herding; **ash mounds** |
+
+### Mehrgarh (Must Know)
+- Located on the **Bolan river**, Kachi plain, **Balochistan (Pakistan)**.
+- Excavated by **Jean-François Jarrige** (from 1974).
+- Dates from about **7000 BCE**, in the period before the Harappan civilization.
+- Evidence of **wheat and barley**, mud-brick houses, granaries, and **dentistry (drilled teeth)**.
+- It is seen as a precursor of the Indus Valley Civilization.
+
+![Mudbrick structures at Mehrgarh Neolithic site](images/mudbrick_structures_at_mehrgarh_neolithic_site_947471da05.jpg)
+
+### Burzahom (Kashmir)
+- Near **Srinagar**; the name means "place of birch".
+- **Pit dwellings** (people lived in pits for warmth).
+- **Dogs were buried with their owners.**
+- Polished stone tools and bone tools.
+
+![Pit dwelling at Burzahom Neolithic site](images/pit_dwelling_at_burzahom_neolithic_site_3118baa8ff.jpg)
+
+## 5. Chalcolithic Age (Copper-Stone Age)
+
+### Features
+- **Copper** was the first metal used (along with stone tools).
+- **Rural, village-based** culture, not urban; no script.
+- Mud and wattle-and-daub houses.
+- **Painted pottery** and **black-and-red ware**.
+- Farming of wheat, barley, rice, lentil, millet; cattle, sheep, goat, pig.
+- Dead were buried in or near houses (e.g. children in urns at Inamgaon).
+- Did **not know iron**.
+
+### Main Cultures
+
+| Culture | Region | Key Sites | Notes |
+|---|---|---|---|
+| **Ahar-Banas** | Rajasthan | Ahar (Tambavati), Gilund | Copper smelting; stone houses; black-and-red ware |
+| **Ganeshwar-Jodhpura** | Rajasthan | Ganeshwar (Sikar) | Copper supplier to Harappans |
+| **Kayatha** | Madhya Pradesh | Kayatha (Kali Sindh) | Early Chalcolithic, before Harappan overlap |
+| **Malwa** | Madhya Pradesh | Navdatoli, Eran, Nagda | Considered the **best pottery** of the Chalcolithic age |
+| **Jorwe** | Maharashtra | **Inamgaon**, Daimabad, Nevasa, Chandoli | Painted pottery; largest group of Chalcolithic sites |
+| **Savalda** | Maharashtra | Savalda | Earliest Chalcolithic culture of Maharashtra |
+| **Black-and-red ware** | Eastern India | Chirand, Mahisadal | Eastern Chalcolithic |
+
+- **Inamgaon** (Ghod river): large village with fortification and moat, houses with fire-pits, burials under house floors.
+- **Daimabad** (Pravara river): largest Jorwe site; bronze objects found.
+
+![Painted Chalcolithic Jorwe ware pottery from Inamgaon](images/painted_chalcolithic_jorwe_ware_pottery_from_inamg_a74b2dd512.jpg)
+
+## 6. Comparison Table
+
+| Feature | Palaeolithic | Mesolithic | Neolithic | Chalcolithic |
+|---|---|---|---|---|
+| Tools | Large chipped stone | **Microliths** | **Polished stone** | Stone + **copper** |
+| Food | Hunt and gather | Hunt, fish, herd | **Farming** | Farming + copper |
+| Pottery | None | Rare | **Appears** | **Painted pottery** |
+| Housing | Caves / rock shelters | Rock shelters, huts | Pit/mud houses | Mud and wattle houses |
+| Animal | None domesticated | **Dog** first | Cattle, sheep, goat | Cattle, sheep, goat, pig |
+| Fire | Known | Known | Used for cooking and pots | Used for smelting |
+
+## 7. PYQ-Pattern Questions with Solutions
+
+> These are exam-pattern questions, not verified PYQs.
+
+**Q1. Who discovered the first Palaeolithic tool in India?**
+(a) V. Gordon Childe (b) Robert Bruce Foote (c) John Marshall (d) Alexander Cunningham
+**Answer: (b) Robert Bruce Foote.** He found a hand axe at Pallavaram, near Chennai, in 1863.
+
+**Q2. The term "Neolithic Revolution" was given by:**
+(a) Robert Bruce Foote (b) V. Gordon Childe (c) Mortimer Wheeler (d) R.D. Banerji
+**Answer: (b) V. Gordon Childe.**
+
+**Q3. Microliths are characteristic of which age?**
+(a) Palaeolithic (b) Mesolithic (c) Neolithic (d) Chalcolithic
+**Answer: (b) Mesolithic.** "Micro" tools, usually under 5 cm.
+
+**Q4. Which site gives the earliest evidence of rice cultivation in India?**
+(a) Mehrgarh (b) Koldihwa (c) Burzahom (d) Chirand
+**Answer: (b) Koldihwa.** It is in the Belan valley, UP.
+
+**Q5. In which Neolithic site were dogs buried along with their owners?**
+(a) Burzahom (b) Mehrgarh (c) Chirand (d) Paiyampalli
+**Answer: (a) Burzahom.** It is in Kashmir and also has pit dwellings.
+
+**Q6. Mehrgarh is located on the bank of the river:**
+(a) Indus (b) Bolan (c) Ravi (d) Sutlej
+**Answer: (b) Bolan.** It lies in Balochistan.
+
+**Q7. Which site is the largest Mesolithic site in India?**
+(a) Bagor (b) Adamgarh (c) Langhnaj (d) Chopani Mando
+**Answer: (a) Bagor.** It is in Bhilwara, Rajasthan.
+
+**Q8. Bhimbetka rock shelters were discovered by:**
+(a) V.S. Wakankar (b) R.B. Foote (c) Jarrige (d) H.D. Sankalia
+**Answer: (a) V.S. Wakankar.** UNESCO listed the site in 2003.
+
+**Q9. The only region showing a continuous sequence from the Lower Palaeolithic to the Neolithic is:**
+(a) Narmada valley (b) Belan valley (c) Soan valley (d) Kurnool
+**Answer: (b) Belan valley.**
+
+**Q10. Which of the following is the first metal used by humans in India?**
+(a) Iron (b) Copper (c) Bronze (d) Gold
+**Answer: (b) Copper.** The Chalcolithic age is named after it.
+
+**Q11. The best pottery of the Chalcolithic age comes from which culture?**
+(a) Ahar (b) Malwa (c) Jorwe (d) Savalda
+**Answer: (b) Malwa.**
+
+**Q12. Hathnora in the Narmada valley is famous for:**
+(a) Rock paintings (b) Skull of archaic Homo sapiens (c) Copper hoard (d) Granaries
+**Answer: (b) Skull of archaic Homo sapiens.**
+
+**Q13. Which Neolithic site is associated with ash mounds?**
+(a) Daojali Hading (b) Utnur (c) Burzahom (d) Gufkral
+**Answer: (b) Utnur.** Ash mounds are found in Karnataka and Andhra, linked to cattle herders.
+
+**Q14. Which animal was domesticated first by humans?**
+(a) Cow (b) Sheep (c) Dog (d) Goat
+**Answer: (c) Dog.** This happened in the Mesolithic.
+
+## 8. Practice Questions
+
+**Q1. The Stone Age phase in which tools were fixed in wooden or bone handles is:**
+(a) Lower Palaeolithic (b) Mesolithic (c) Middle Palaeolithic (d) Neolithic
+**Answer: (b) Mesolithic.** Composite tools were made from microliths.
+
+**Q2. The raw material for most Lower Palaeolithic tools in India was:**
+(a) Chert (b) Quartzite (c) Jasper (d) Basalt
+**Answer: (b) Quartzite.**
+
+**Q3. Which of the following is NOT a Neolithic site?**
+(a) Burzahom (b) Koldihwa (c) Inamgaon (d) Maski
+**Answer: (c) Inamgaon.** It is a Chalcolithic (Jorwe) site.
+
+**Q4. Daojali Hading, known for shouldered celts, is in:**
+(a) Kashmir (b) Assam (c) Bihar (d) Karnataka
+**Answer: (b) Assam.**
+
+**Q5. Who excavated Mehrgarh?**
+(a) Mortimer Wheeler (b) Jean-François Jarrige (c) R.E.M. Wheeler (d) John Marshall
+**Answer: (b) Jean-François Jarrige.**
+
+**Q6. Pick the correct statements about the Chalcolithic age.**
+1. People knew the use of iron.
+2. People used copper along with stone tools.
+3. Painted pottery was common.
+(a) 1 and 2 (b) 2 and 3 (c) 1 and 3 (d) All three
+**Answer: (b) 2 and 3.** Iron was unknown in the Chalcolithic age.
+
+**Q7. Chirand, a Neolithic site known for bone tools, is in:**
+(a) UP (b) Bihar (c) Rajasthan (d) Gujarat
+**Answer: (b) Bihar.** It lies in the Saran district.
+
+**Q8. Which rock-shelter site has paintings mostly from the Mesolithic period?**
+(a) Bhimbetka (b) Hunsgi (c) Attirampakkam (d) Mehrgarh
+**Answer: (a) Bhimbetka.**
+
+## 9. Common Exam Traps
+
+| Trap | Correct Fact |
+|---|---|
+| Who found the first Palaeolithic tool | **Robert Bruce Foote** (not Childe, not Cunningham) |
+| Mehrgarh location | **Balochistan, Pakistan**, on the **Bolan**, not Indus |
+| Earliest rice | **Koldihwa** (UP), not Mehrgarh (wheat and barley) |
+| Burzahom | Neolithic Kashmir, **dog burial and pit dwellings** |
+| Inamgaon | **Chalcolithic** (Jorwe), not Neolithic |
+| Bhimbetka paintings | **Mostly Mesolithic**, though some are Upper Palaeolithic |
+| Fire | Known from the **Palaeolithic**, not the Neolithic |
+| First metal | **Copper** (Chalcolithic), not iron or bronze |
+| Largest Mesolithic site | **Bagor** (Rajasthan) |
+| Neolithic and Chalcolithic overlap | Neolithic is stone only; Chalcolithic adds **copper** |
+| Bhimbetka discoverer | **V.S. Wakankar**, not Foote or Jarrige |
+| Date ranges | Books differ; trust the **sequence** and key features, not exact dates |
+
+## 10. Last-Minute Revision Table
+
+| Topic | Key Fact |
+|---|---|
+| Palaeolithic | Hunter-gatherers, quartzite tools, fire, caves |
+| Foote | Pallavaram hand axe, 1863 |
+| Hathnora | Archaic Homo sapiens skull (Narmada) |
+| Belan valley | Lower Palaeolithic to Neolithic sequence |
+| Bhimbetka | Wakankar; UNESCO 2003; Mesolithic paintings |
+| Mesolithic | Microliths, bow and arrow, dog domestication |
+| Bagor | Largest Mesolithic site |
+| Langhnaj | Gujarat; microliths and skeletons |
+| Neolithic | Polished tools, farming, pottery, settled life |
+| Mehrgarh | Bolan, c. 7000 BCE, Jarrige, wheat and barley |
+| Burzahom | Pit dwellings, dog burial |
+| Koldihwa | Earliest rice |
+| Chirand | Bihar; bone tools |
+| Daojali Hading | Assam; shouldered celts |
+| Chalcolithic | Copper, painted pottery, village life |
+| Ahar-Banas | Rajasthan; copper smelting |
+| Malwa | Best Chalcolithic pottery |
+| Jorwe / Inamgaon | Maharashtra; fortified village |
+| Chalcolithic gap | No iron, no script, no cities |
